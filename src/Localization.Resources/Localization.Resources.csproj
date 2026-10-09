@@ -1,0 +1,112 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <Title>Localization.Resources</Title>
+        <Product>Localization.Resources</Product>
+        <Description>Shared strongly-typed resource files (.resx) and localization assets for .NET applications.</Description>
+        <PackageId>Localization.Resources</PackageId>
+        <RootNamespace>Localization.Resources</RootNamespace>
+        <AssemblyName>Localization.Resources</AssemblyName>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
+        <IsPackable>true</IsPackable>
+        <NoWarn>$(NoWarn);NU5104;</NoWarn>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <None Include=".\README.md">
+            <Pack>True</Pack>
+            <PackagePath>\</PackagePath>
+        </None>
+    </ItemGroup>
+
+    <ItemGroup>
+        <AssemblyAttribute Include="System.Runtime.CompilerServices.InternalsVisibleToAttribute">
+            <_Parameter1>Localization.Resources.UnitTests</_Parameter1>
+        </AssemblyAttribute>
+    </ItemGroup>
+
+    <ItemGroup>
+        <Compile Update="GenericResource.Designer.cs">
+            <DesignTime>True</DesignTime>
+            <AutoGen>True</AutoGen>
+            <DependentUpon>GenericResource.resx</DependentUpon>
+        </Compile>
+        <Compile Update="ValidationResource.Designer.cs">
+            <DesignTime>True</DesignTime>
+            <AutoGen>True</AutoGen>
+            <DependentUpon>ValidationResource.resx</DependentUpon>
+        </Compile>
+        <Compile Update="ErrorResource.Designer.cs">
+            <DesignTime>True</DesignTime>
+            <AutoGen>True</AutoGen>
+            <DependentUpon>ErrorResource.resx</DependentUpon>
+        </Compile>
+    </ItemGroup>
+
+    <ItemGroup>
+        <EmbeddedResource Update="GenericResource.de.resx">
+            <Generator>PublicResXFileCodeGenerator</Generator>
+        </EmbeddedResource>
+        <EmbeddedResource Update="GenericResource.en.resx">
+            <Generator>PublicResXFileCodeGenerator</Generator>
+        </EmbeddedResource>
+        <EmbeddedResource Update="GenericResource.fr.resx">
+            <Generator>PublicResXFileCodeGenerator</Generator>
+        </EmbeddedResource>
+        <EmbeddedResource Update="GenericResource.it.resx">
+            <Generator>PublicResXFileCodeGenerator</Generator>
+        </EmbeddedResource>
+        <EmbeddedResource Update="GenericResource.resx">
+            <LastGenOutput>GenericResource.Designer.cs</LastGenOutput>
+            <Generator>PublicResXFileCodeGenerator</Generator>
+        </EmbeddedResource>
+        <EmbeddedResource Update="ValidationResource.de.resx">
+            <Generator>PublicResXFileCodeGenerator</Generator>
+        </EmbeddedResource>
+        <EmbeddedResource Update="ValidationResource.en.resx">
+            <Generator>PublicResXFileCodeGenerator</Generator>
+        </EmbeddedResource>
+        <EmbeddedResource Update="ValidationResource.fr.resx">
+            <Generator>PublicResXFileCodeGenerator</Generator>
+        </EmbeddedResource>
+        <EmbeddedResource Update="ValidationResource.it.resx">
+            <Generator>PublicResXFileCodeGenerator</Generator>
+        </EmbeddedResource>
+        <EmbeddedResource Update="ValidationResource.resx">
+            <LastGenOutput>ValidationResource.Designer.cs</LastGenOutput>
+            <Generator>PublicResXFileCodeGenerator</Generator>
+        </EmbeddedResource>
+        <EmbeddedResource Update="ErrorResource.de.resx">
+            <Generator>PublicResXFileCodeGenerator</Generator>
+        </EmbeddedResource>
+        <EmbeddedResource Update="ErrorResource.en.resx">
+            <Generator>PublicResXFileCodeGenerator</Generator>
+        </EmbeddedResource>
+        <EmbeddedResource Update="ErrorResource.fr.resx">
+            <Generator>PublicResXFileCodeGenerator</Generator>
+        </EmbeddedResource>
+        <EmbeddedResource Update="ErrorResource.it.resx">
+            <Generator>PublicResXFileCodeGenerator</Generator>
+        </EmbeddedResource>
+        <EmbeddedResource Update="ErrorResource.resx">
+            <LastGenOutput>ErrorResource.Designer.cs</LastGenOutput>
+            <Generator>PublicResXFileCodeGenerator</Generator>
+        </EmbeddedResource>
+    </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference
+                Update="Microsoft.CodeAnalysis.NetAnalyzers"
+                Version="11.0.100-rc.1.26425.128" />
+        <PackageReference
+                Include="Microsoft.Extensions.Localization.Abstractions"
+                Version="11.0.0-rc.1.26425.128" />
+        <PackageReference
+                Update="Roslynator.Analyzers"
+                Version="5.0.1" />
+        <PackageReference
+                Update="Roslynator.CodeFixes"
+                Version="5.0.1" />
+    </ItemGroup>
+
+</Project>

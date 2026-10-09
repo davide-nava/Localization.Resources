@@ -1,0 +1,71 @@
+name: Build Release
+
+on:
+    push:
+        tags:
+            - "v*"
+
+permissions:
+    contents: write
+
+jobs:
+    build:
+        name: Build and Verify Release
+        runs-on: windows-latest
+
+        steps:
+            - name: Checkout
+              uses: actions/checkout@v7
+
+            - name: Setup .NET 11 RC
+              uses: actions/setup-dotnet@v6
+              with:
+                  dotnet-version: "11.0.x"
+                  include-prerelease: true
+
+            - name: Extract Version
+              shell: pwsh
+              run: |
+                  $version = "${{ github.ref_name }}".TrimStart('v')
+                  "VERSION=$version" | Out-File $env:GITHUB_ENV -Append
+                  Write-Host "Building version $version"
+
+            - name: Show SDK Info
+              shell: pwsh
+              run: |
+                  dotnet --version
+                  dotnet --list-sdks
+
+            - name: Restore
+              shell: pwsh
+              run: |
+                  dotnet restore Localization.Resources.slnx
+
+            - name: Build
+              shell: pwsh
+              run: |
+                  dotnet build `
+                    Localization.Resources.slnx `
+                    -c Release `
+                    --no-restore `
+                    -p:Version=${{ env.VERSION }} `
+                    -p:AssemblyVersion=${{ env.VERSION }} `
+                    -p:FileVersion=${{ env.VERSION }}
+
+            - name: Test
+              shell: pwsh
+              run: |
+                  dotnet test `
+                    Localization.Resources.slnx `
+                    -c Release `
+                    --no-build `
+                    /p:CollectCoverage=true
+
+            - name: Create GitHub Release
+              uses: softprops/action-gh-release@v3
+              with:
+                  tag_name: ${{ github.ref_name }}
+                  name: Release ${{ env.VERSION }}
+                  generate_release_notes: true
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
