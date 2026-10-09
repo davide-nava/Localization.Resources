@@ -1,0 +1,2 @@
+# Localization.Resources
+Localization.Resources
