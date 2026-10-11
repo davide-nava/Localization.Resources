@@ -30,7 +30,7 @@
                 <CodeAnalysisTreatWarningsAsErrors>true</CodeAnalysisTreatWarningsAsErrors>
                 <AnalysisModeSecurity>All</AnalysisModeSecurity>
                 <HotReloadAutoRestart>true</HotReloadAutoRestart>
-                <RunCodeAnalysis>false</RunCodeAnalysis>
+                <RunCodeAnalysis>true</RunCodeAnalysis>
                 <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
                 <AccelerateBuildsInVisualStudio>true</AccelerateBuildsInVisualStudio>
                 <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
@@ -141,7 +141,6 @@
                 </WarningsAsErrors>
                 <NoWarn>$(NoWarn);</NoWarn>
         </PropertyGroup>
-
         <ItemGroup>
                 <None Include="..\..\assets\img\ns_128.png">
                         <Pack>True</Pack>

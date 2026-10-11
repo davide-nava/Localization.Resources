@@ -120,7 +120,40 @@
   <data name="EmployeeIdRequired" xml:space="preserve">
     <value>Die Mitarbeiter-ID ist erforderlich.</value>
   </data>
+  <data name="FiscalYearIsInvalid" xml:space="preserve">
+    <value>Das Geschäftsjahr muss gültig sein.</value>
+  </data>
+  <data name="InvoiceNumberIsRequired" xml:space="preserve">
+    <value>Die Rechnungsnummer ist erforderlich.</value>
+  </data>
+  <data name="CustomerIsRequired" xml:space="preserve">
+    <value>Angabe des Kunden erforderlich.</value>
+  </data>
+  <data name="AtLeastOneProductNameTranslationIsRequired" xml:space="preserve">
+    <value>Mindestens eine Übersetzung des Produktnamens ist erforderlich.</value>
+  </data>
+  <data name="CompanyProfileForIssuerSettingsIsMissing" xml:space="preserve">
+    <value>Das Unternehmensprofil für die Emittenteneinstellungen fehlt.</value>
+  </data>
+  <data name="LineDescriptionIsRequired" xml:space="preserve">
+    <value>Eine Zeilenbeschreibung ist erforderlich.</value>
+  </data>
+  <data name="CustomerDataIsMissingFromInvoice" xml:space="preserve">
+    <value>Kundendaten fehlen auf der Rechnung.</value>
+  </data>
+  <data name="TheTaxCodeMustBe15CharactersLong" xml:space="preserve">
+    <value>Der Steuercode muss 15 Zeichen lang sein.</value>
+  </data>
   <data name="MandatoryReasonRequired" xml:space="preserve">
     <value>Der Korrekturgrund ist gesetzlich vorgeschrieben (Art. 73 ArGV 1).</value>
+  </data>
+  <data name="QuantityMustBeGreaterThanZero" xml:space="preserve">
+    <value>Die Menge muss größer als null sein.</value>
+  </data>
+  <data name="UnitPriceCannotBeNegative" xml:space="preserve">
+    <value>Der Einzelpreis darf nicht negativ sein.</value>
+  </data>
+  <data name="InvoiceMustContainAtLeastOneLine" xml:space="preserve">
+    <value>Die Rechnung muss mindestens eine Zeile enthalten.</value>
   </data>
 </root>

@@ -120,7 +120,40 @@
   <data name="EmployeeIdRequired" xml:space="preserve">
     <value>L'identificativo del collaboratore è obbligatorio.</value>
   </data>
+  <data name="FiscalYearIsInvalid" xml:space="preserve">
+    <value>L'anno fiscale deve essere valido.</value>
+  </data>
+  <data name="InvoiceNumberIsRequired" xml:space="preserve">
+    <value>Il numero della fattura è obbligatorio.</value>
+  </data>
+  <data name="CustomerIsRequired" xml:space="preserve">
+    <value>Il cliente è obbligatorio.</value>
+  </data>
+  <data name="AtLeastOneProductNameTranslationIsRequired" xml:space="preserve">
+    <value>È richiesta almeno una traduzione del nome del prodotto.</value>
+  </data>
+  <data name="CompanyProfileForIssuerSettingsIsMissing" xml:space="preserve">
+    <value>Manca il profilo aziendale per le impostazioni dell'emittente.</value>
+  </data>
+  <data name="LineDescriptionIsRequired" xml:space="preserve">
+    <value>La descrizione della linea è obbligatoria.</value>
+  </data>
+  <data name="CustomerDataIsMissingFromInvoice" xml:space="preserve">
+    <value>I dati del cliente mancano nella fattura.</value>
+  </data>
+  <data name="TheTaxCodeMustBe15CharactersLong" xml:space="preserve">
+    <value>Il codice fiscale deve essere lungo 15 caratteri.</value>
+  </data>
   <data name="MandatoryReasonRequired" xml:space="preserve">
     <value>La motivazione della rettifica è obbligatoria per legge (Art. 73 OLL 1).</value>
+  </data>
+  <data name="QuantityMustBeGreaterThanZero" xml:space="preserve">
+    <value>La quantità deve essere superiore a zero.</value>
+  </data>
+  <data name="UnitPriceCannotBeNegative" xml:space="preserve">
+    <value>Il prezzo unitario non può essere negativo.</value>
+  </data>
+  <data name="InvoiceMustContainAtLeastOneLine" xml:space="preserve">
+    <value>La fattura deve contenere almeno una riga.</value>
   </data>
 </root>

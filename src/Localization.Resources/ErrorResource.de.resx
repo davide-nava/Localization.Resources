@@ -360,4 +360,19 @@
   <data name="AccessDenied" xml:space="preserve">
     <value>Access denied</value>
   </data>
+  <data name="InvoiceWithIdNotFound" xml:space="preserve">
+    <value>Rechnung mit der ID {0} wurde nicht gefunden.</value>
+  </data>
+  <data name="CannotDeleteCustomerWithExistingInvoices" xml:space="preserve">
+    <value>Kunde mit vorhandenen Rechnungen kann nicht gelöscht werden.</value>
+  </data>
+  <data name="CustomerWithIdNotFound" xml:space="preserve">
+    <value>Kunde mit der ID {0} wurde nicht gefunden.</value>
+  </data>
+  <data name="FailedToInitializeDatabase" xml:space="preserve">
+    <value>Die Initialisierung der Datenbank ist fehlgeschlagen.</value>
+  </data>
+  <data name="AnErrorOccurredWhileInitializingDatabase" xml:space="preserve">
+    <value>Beim Initialisieren der Datenbank ist ein Fehler aufgetreten.</value>
+  </data>
 </root>
