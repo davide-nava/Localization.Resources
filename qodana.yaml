@@ -18,6 +18,12 @@ dotnet:
 profile:
     name: qodana.recommended
 
+exclude:
+    - name: All
+      paths:
+          - .editorconfig
+    - name: EditorConfigValueCorrectness
+
 #Enable inspections
 include:
     - name: CheckDependencyLicenses
@@ -43,16 +49,15 @@ include:
 
 failureConditions:
     severityThresholds:
-        any: 15
-        critical: 5
+        critical: 0
+        high: 0
+        moderate: 5
+        low: 20
+
     testCoverageThresholds:
-        fresh: 70
-        total: 50
+        fresh: 85
+        total: 80
+
     dependencyLicenses:
         failOnProhibited: true
         failOnUnknown: false
-exclude:
-    - name: All
-      paths:
-          - .editorconfig
-    - name: EditorConfigValueCorrectness

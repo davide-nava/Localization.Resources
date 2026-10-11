@@ -30,7 +30,7 @@
                 <CodeAnalysisTreatWarningsAsErrors>true</CodeAnalysisTreatWarningsAsErrors>
                 <AnalysisModeSecurity>All</AnalysisModeSecurity>
                 <HotReloadAutoRestart>true</HotReloadAutoRestart>
-                <RunCodeAnalysis>false</RunCodeAnalysis>
+                <RunCodeAnalysis>true</RunCodeAnalysis>
                 <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
                 <AccelerateBuildsInVisualStudio>true</AccelerateBuildsInVisualStudio>
                 <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
@@ -129,7 +129,7 @@
                                 Link=".editorconfig" />
         </ItemGroup>
 
-        <PropertyGroup>
+        <!-- <PropertyGroup>
                 <WarningsAsErrors>
                         $(WarningsAsErrors);
                         CA*;
@@ -140,7 +140,7 @@
                         CS*
                 </WarningsAsErrors>
                 <NoWarn>$(NoWarn);</NoWarn>
-        </PropertyGroup>
+        </PropertyGroup> -->
 
         <ItemGroup>
                 <None Include="..\..\assets\img\ns_128.png">
