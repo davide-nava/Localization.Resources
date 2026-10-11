@@ -120,7 +120,40 @@
   <data name="EmployeeIdRequired" xml:space="preserve">
     <value>Employee identifier is required.</value>
   </data>
+  <data name="FiscalYearIsInvalid" xml:space="preserve">
+    <value>Fiscal year must be valid.</value>
+  </data>
+  <data name="InvoiceNumberIsRequired" xml:space="preserve">
+    <value>Invoice number is required.</value>
+  </data>
+  <data name="CustomerIsRequired" xml:space="preserve">
+    <value>Customer is required.</value>
+  </data>
+  <data name="AtLeastOneProductNameTranslationIsRequired" xml:space="preserve">
+    <value>At least one product name translation is required.</value>
+  </data>
+  <data name="CompanyProfileForIssuerSettingsIsMissing" xml:space="preserve">
+    <value>Company profile for issuer settings is missing.</value>
+  </data>
+  <data name="LineDescriptionIsRequired" xml:space="preserve">
+    <value>Line description is required.</value>
+  </data>
+  <data name="CustomerDataIsMissingFromInvoice" xml:space="preserve">
+    <value>Customer data is missing from invoice.</value>
+  </data>
+  <data name="TheTaxCodeMustBe15CharactersLong" xml:space="preserve">
+    <value>The tax code must be 15 characters long.</value>
+  </data>
   <data name="MandatoryReasonRequired" xml:space="preserve">
     <value>Correction reason is required by Swiss law (Art. 73 ArGV 1 / OLL 1).</value>
+  </data>
+  <data name="QuantityMustBeGreaterThanZero" xml:space="preserve">
+    <value>Quantity must be greater than zero.</value>
+  </data>
+  <data name="UnitPriceCannotBeNegative" xml:space="preserve">
+    <value>Unit price cannot be negative.</value>
+  </data>
+  <data name="InvoiceMustContainAtLeastOneLine" xml:space="preserve">
+    <value>Invoice must contain at least one line.</value>
   </data>
 </root>

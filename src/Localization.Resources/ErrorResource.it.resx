@@ -360,4 +360,19 @@
   <data name="AccessDenied" xml:space="preserve">
     <value>Access denied</value>
   </data>
+  <data name="InvoiceWithIdNotFound" xml:space="preserve">
+    <value>Fattura con ID {0} non trovata.</value>
+  </data>
+  <data name="CannotDeleteCustomerWithExistingInvoices" xml:space="preserve">
+    <value>Impossibile eliminare il cliente in presenza di fatture esistenti.</value>
+  </data>
+  <data name="CustomerWithIdNotFound" xml:space="preserve">
+    <value>Cliente con ID {0} non trovato.</value>
+  </data>
+  <data name="FailedToInitializeDatabase" xml:space="preserve">
+    <value>Impossibile inizializzare il database.</value>
+  </data>
+  <data name="AnErrorOccurredWhileInitializingDatabase" xml:space="preserve">
+    <value>Si è verificato un errore durante l'inizializzazione del database.</value>
+  </data>
 </root>

@@ -61,6 +61,42 @@ namespace Localization.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to At least one product name translation is required..
+        /// </summary>
+        public static string AtLeastOneProductNameTranslationIsRequired {
+            get {
+                return ResourceManager.GetString("AtLeastOneProductNameTranslationIsRequired", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Company profile for issuer settings is missing..
+        /// </summary>
+        public static string CompanyProfileForIssuerSettingsIsMissing {
+            get {
+                return ResourceManager.GetString("CompanyProfileForIssuerSettingsIsMissing", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Customer data is missing from invoice..
+        /// </summary>
+        public static string CustomerDataIsMissingFromInvoice {
+            get {
+                return ResourceManager.GetString("CustomerDataIsMissingFromInvoice", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Customer is required..
+        /// </summary>
+        public static string CustomerIsRequired {
+            get {
+                return ResourceManager.GetString("CustomerIsRequired", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Employee identifier is required..
         /// </summary>
         public static string EmployeeIdRequired {
@@ -70,11 +106,74 @@ namespace Localization.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Fiscal year must be valid..
+        /// </summary>
+        public static string FiscalYearIsInvalid {
+            get {
+                return ResourceManager.GetString("FiscalYearIsInvalid", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Invoice must contain at least one line..
+        /// </summary>
+        public static string InvoiceMustContainAtLeastOneLine {
+            get {
+                return ResourceManager.GetString("InvoiceMustContainAtLeastOneLine", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Invoice number is required..
+        /// </summary>
+        public static string InvoiceNumberIsRequired {
+            get {
+                return ResourceManager.GetString("InvoiceNumberIsRequired", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Line description is required..
+        /// </summary>
+        public static string LineDescriptionIsRequired {
+            get {
+                return ResourceManager.GetString("LineDescriptionIsRequired", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Correction reason is required by Swiss law (Art. 73 ArGV 1 / OLL 1)..
         /// </summary>
         public static string MandatoryReasonRequired {
             get {
                 return ResourceManager.GetString("MandatoryReasonRequired", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Quantity must be greater than zero..
+        /// </summary>
+        public static string QuantityMustBeGreaterThanZero {
+            get {
+                return ResourceManager.GetString("QuantityMustBeGreaterThanZero", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The tax code must be 15 characters long..
+        /// </summary>
+        public static string TheTaxCodeMustBe15CharactersLong {
+            get {
+                return ResourceManager.GetString("TheTaxCodeMustBe15CharactersLong", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Unit price cannot be negative..
+        /// </summary>
+        public static string UnitPriceCannotBeNegative {
+            get {
+                return ResourceManager.GetString("UnitPriceCannotBeNegative", resourceCulture);
             }
         }
     }
