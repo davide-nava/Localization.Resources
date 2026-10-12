@@ -156,4 +156,70 @@
   <data name="InvoiceMustContainAtLeastOneLine" xml:space="preserve">
     <value>Die Rechnung muss mindestens eine Zeile enthalten.</value>
   </data>
+  <data name="ErrorAtLeastOneDettaglioLinee" xml:space="preserve">
+    <value>Mindestens eine Position (&lt;DettaglioLinee&gt;) ist erforderlich.</value>
+  </data>
+  <data name="ErrorMissingMandatoryCessionario" xml:space="preserve">
+    <value>Obligatorischer Abschnitt &lt;CessionarioCommittente&gt; fehlt.</value>
+  </data>
+  <data name="ErrorMissingMandatoryCedente" xml:space="preserve">
+    <value>Obligatorischer Abschnitt &lt;CedentePrestatore&gt; fehlt.</value>
+  </data>
+  <data name="ErrorMissingMandatoryBody" xml:space="preserve">
+    <value>Obligatorischer Abschnitt &lt;FatturaElettronicaBody&gt; fehlt.</value>
+  </data>
+  <data name="ErrorMissingMandatoryHeader" xml:space="preserve">
+    <value>Obligatorischer Abschnitt &lt;FatturaElettronicaHeader&gt; fehlt.</value>
+  </data>
+  <data name="ErrorRootElementMustBeFatturaElettronica" xml:space="preserve">
+    <value>Das Wurzelelement muss &lt;FatturaElettronica&gt; sein.</value>
+  </data>
+  <data name="WarningDefaultSdiCodeWithoutPec" xml:space="preserve">
+    <value>Der Kunde verwendet den Standard-SDI-Empfängercode „0000000“, verfügt jedoch über keine registrierte PEC-E-Mail-Adresse.</value>
+  </data>
+  <data name="SwissInvoicesMustUseChfOrEur" xml:space="preserve">
+    <value>Schweizer Rechnungen müssen auf CHF oder EUR ausgestellt sein.</value>
+  </data>
+  <data name="QrReferenceIsRequiredForQrIban" xml:space="preserve">
+    <value>Für die QR-IBAN ist eine QR-Referenz erforderlich.</value>
+  </data>
+  <data name="QrReferenceMustBe27DigitsWithValidModulo10RecursiveCheckDigit" xml:space="preserve">
+    <value>Die QR-Referenz muss 27 Stellen umfassen und eine gültige, rekursive Modulo-10-Prüfziffer enthalten.</value>
+  </data>
+  <data name="ItalianSdiInvoicesMustUseEurCurrency" xml:space="preserve">
+    <value>Italienische SDI-Rechnungen müssen auf die Währung EUR lauten.</value>
+  </data>
+  <data name="DocumentTypeEgTd01IsRequiredForItalianInvoices" xml:space="preserve">
+    <value>Der Dokumententyp (z. B. TD01) ist für italienische Rechnungen erforderlich.</value>
+  </data>
+  <data name="DocumentTypeMustBeValidSdiCodeEgTd01Td04" xml:space="preserve">
+    <value>Der Dokumenttyp muss ein gültiger SDI-Code sein (z. B. TD01, TD04).</value>
+  </data>
+  <data name="NaturaIvaIsRequiredWhenVatRateIs0" xml:space="preserve">
+    <value>Natura IVA ist erforderlich, wenn der Mehrwertsteuersatz 0 % beträgt.</value>
+  </data>
+  <data name="NaturaIvaCannotBeNoneWhenVatRateIs0" xml:space="preserve">
+    <value>Natura IVA darf nicht None sein, wenn der Mehrwertsteuersatz 0 % beträgt.</value>
+  </data>
+  <data name="PartitaIvaCannotBeEmpty" xml:space="preserve">
+    <value>Die Umsatzsteuer-Identifikationsnummer darf nicht leer sein.</value>
+  </data>
+  <data name="PartitaIvaMustContainExactly11DigitsFound" xml:space="preserve">
+    <value>Die Partita IVA muss genau 11 Ziffern enthalten. Gefunden: '{0}'.</value>
+  </data>
+  <data name="PartitaIvaFailsCheckDigitValidation" xml:space="preserve">
+    <value>Die Umsatzsteuer-Identifikationsnummer „{0}“ hat die Prüfung der Prüfziffer nicht bestanden.</value>
+  </data>
+  <data name="CodiceFiscaleCannotBeEmpty" xml:space="preserve">
+    <value>Die Codice Fiscale darf nicht leer sein.</value>
+  </data>
+  <data name="QrReferenceCannotBeEmpty" xml:space="preserve">
+    <value>Die QR-Referenz darf nicht leer sein.</value>
+  </data>
+  <data name="ScorReferenceCannotBeEmpty" xml:space="preserve">
+    <value>Die SCOR-Referenz darf nicht leer sein.</value>
+  </data>
+  <data name="IbanCannotBeEmpty" xml:space="preserve">
+    <value>Die IBAN darf nicht leer sein.</value>
+  </data>
 </root>

@@ -70,6 +70,15 @@ namespace Localization.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Codice Fiscale cannot be empty.
+        /// </summary>
+        public static string CodiceFiscaleCannotBeEmpty {
+            get {
+                return ResourceManager.GetString("CodiceFiscaleCannotBeEmpty", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Company profile for issuer settings is missing..
         /// </summary>
         public static string CompanyProfileForIssuerSettingsIsMissing {
@@ -97,6 +106,24 @@ namespace Localization.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Document type (e.g. TD01) is required for Italian invoices..
+        /// </summary>
+        public static string DocumentTypeEgTd01IsRequiredForItalianInvoices {
+            get {
+                return ResourceManager.GetString("DocumentTypeEgTd01IsRequiredForItalianInvoices", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Document type must be a valid SDI code (e.g. TD01, TD04)..
+        /// </summary>
+        public static string DocumentTypeMustBeValidSdiCodeEgTd01Td04 {
+            get {
+                return ResourceManager.GetString("DocumentTypeMustBeValidSdiCodeEgTd01Td04", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Employee identifier is required..
         /// </summary>
         public static string EmployeeIdRequired {
@@ -106,11 +133,74 @@ namespace Localization.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to At least one line item (&lt;DettaglioLinee&gt;) is required..
+        /// </summary>
+        public static string ErrorAtLeastOneDettaglioLinee {
+            get {
+                return ResourceManager.GetString("ErrorAtLeastOneDettaglioLinee", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Missing mandatory section &lt;FatturaElettronicaBody&gt;..
+        /// </summary>
+        public static string ErrorMissingMandatoryBody {
+            get {
+                return ResourceManager.GetString("ErrorMissingMandatoryBody", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Missing mandatory section &lt;CedentePrestatore&gt;..
+        /// </summary>
+        public static string ErrorMissingMandatoryCedente {
+            get {
+                return ResourceManager.GetString("ErrorMissingMandatoryCedente", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Missing mandatory section &lt;CessionarioCommittente&gt;..
+        /// </summary>
+        public static string ErrorMissingMandatoryCessionario {
+            get {
+                return ResourceManager.GetString("ErrorMissingMandatoryCessionario", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Missing mandatory section &lt;FatturaElettronicaHeader&gt;..
+        /// </summary>
+        public static string ErrorMissingMandatoryHeader {
+            get {
+                return ResourceManager.GetString("ErrorMissingMandatoryHeader", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Root element must be &lt;FatturaElettronica&gt;..
+        /// </summary>
+        public static string ErrorRootElementMustBeFatturaElettronica {
+            get {
+                return ResourceManager.GetString("ErrorRootElementMustBeFatturaElettronica", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Fiscal year must be valid..
         /// </summary>
         public static string FiscalYearIsInvalid {
             get {
                 return ResourceManager.GetString("FiscalYearIsInvalid", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to IBAN cannot be empty..
+        /// </summary>
+        public static string IbanCannotBeEmpty {
+            get {
+                return ResourceManager.GetString("IbanCannotBeEmpty", resourceCulture);
             }
         }
         
@@ -133,6 +223,15 @@ namespace Localization.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Italian SDI invoices must use EUR currency..
+        /// </summary>
+        public static string ItalianSdiInvoicesMustUseEurCurrency {
+            get {
+                return ResourceManager.GetString("ItalianSdiInvoicesMustUseEurCurrency", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Line description is required..
         /// </summary>
         public static string LineDescriptionIsRequired {
@@ -151,11 +250,101 @@ namespace Localization.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Natura IVA cannot be None when VAT rate is 0%..
+        /// </summary>
+        public static string NaturaIvaCannotBeNoneWhenVatRateIs0 {
+            get {
+                return ResourceManager.GetString("NaturaIvaCannotBeNoneWhenVatRateIs0", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Natura IVA is required when VAT rate is 0%..
+        /// </summary>
+        public static string NaturaIvaIsRequiredWhenVatRateIs0 {
+            get {
+                return ResourceManager.GetString("NaturaIvaIsRequiredWhenVatRateIs0", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Partita IVA cannot be empty.
+        /// </summary>
+        public static string PartitaIvaCannotBeEmpty {
+            get {
+                return ResourceManager.GetString("PartitaIvaCannotBeEmpty", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Partita IVA &apos;{0}&apos; fails check digit validation..
+        /// </summary>
+        public static string PartitaIvaFailsCheckDigitValidation {
+            get {
+                return ResourceManager.GetString("PartitaIvaFailsCheckDigitValidation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Partita IVA must contain exactly 11 digits. Found: &apos;{0}&apos;..
+        /// </summary>
+        public static string PartitaIvaMustContainExactly11DigitsFound {
+            get {
+                return ResourceManager.GetString("PartitaIvaMustContainExactly11DigitsFound", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to QR Reference cannot be empty..
+        /// </summary>
+        public static string QrReferenceCannotBeEmpty {
+            get {
+                return ResourceManager.GetString("QrReferenceCannotBeEmpty", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to QR Reference is required for QR-IBAN..
+        /// </summary>
+        public static string QrReferenceIsRequiredForQrIban {
+            get {
+                return ResourceManager.GetString("QrReferenceIsRequiredForQrIban", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to QR Reference must be 27 digits with a valid Modulo 10 recursive check digit..
+        /// </summary>
+        public static string QrReferenceMustBe27DigitsWithValidModulo10RecursiveCheckDigit {
+            get {
+                return ResourceManager.GetString("QrReferenceMustBe27DigitsWithValidModulo10RecursiveCheckDigit", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Quantity must be greater than zero..
         /// </summary>
         public static string QuantityMustBeGreaterThanZero {
             get {
                 return ResourceManager.GetString("QuantityMustBeGreaterThanZero", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to SCOR Reference cannot be empty..
+        /// </summary>
+        public static string ScorReferenceCannotBeEmpty {
+            get {
+                return ResourceManager.GetString("ScorReferenceCannotBeEmpty", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Swiss invoices must use CHF or EUR..
+        /// </summary>
+        public static string SwissInvoicesMustUseChfOrEur {
+            get {
+                return ResourceManager.GetString("SwissInvoicesMustUseChfOrEur", resourceCulture);
             }
         }
         
@@ -174,6 +363,15 @@ namespace Localization.Resources {
         public static string UnitPriceCannotBeNegative {
             get {
                 return ResourceManager.GetString("UnitPriceCannotBeNegative", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Customer uses default SDI recipient code &apos;0000000&apos; but has no registered PEC email address..
+        /// </summary>
+        public static string WarningDefaultSdiCodeWithoutPec {
+            get {
+                return ResourceManager.GetString("WarningDefaultSdiCodeWithoutPec", resourceCulture);
             }
         }
     }
