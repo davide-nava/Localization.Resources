@@ -375,4 +375,40 @@
   <data name="AnErrorOccurredWhileInitializingDatabase" xml:space="preserve">
     <value>An error occurred while initializing the database.</value>
   </data>
+  <data name="SmtpCommandErrorCreatingClient" xml:space="preserve">
+    <value>SMTP command error creating client</value>
+  </data>
+  <data name="IOErrorCreatingClient" xml:space="preserve">
+    <value>IO error creating client</value>
+  </data>
+  <data name="SocketErrorCreatingClient" xml:space="preserve">
+    <value>Socket error creating client</value>
+  </data>
+  <data name="SSLHandshakeErrorCreatingClient" xml:space="preserve">
+    <value>SSL handshake error creating client</value>
+  </data>
+  <data name="CustomerDefaultSdiCode0000000WithoutPec" xml:space="preserve">
+    <value>Customer uses default SDI code '0000000' without PEC email (acceptable for B2C consumer invoices).</value>
+  </data>
+  <data name="RootElementMustBeFatturaElettronica" xml:space="preserve">
+    <value>Root element must be 'FatturaElettronica'.</value>
+  </data>
+  <data name="MissingMandatorySectionFatturaElettronicaHeader" xml:space="preserve">
+    <value>Missing mandatory section 'FatturaElettronicaHeader'.</value>
+  </data>
+  <data name="MissingMandatorySectionFatturaElettronicaBody" xml:space="preserve">
+    <value>Missing mandatory section 'FatturaElettronicaBody'.</value>
+  </data>
+  <data name="MissingMandatorySectionCdentePrestatore" xml:space="preserve">
+    <value>Missing mandatory section 'CedentePrestatore'.</value>
+  </data>
+  <data name="MissingMandatorySectionCessionarioCommittente" xml:space="preserve">
+    <value>Missing mandatory section 'CessionarioCommittente'.</value>
+  </data>
+  <data name="AtLeastOneDettaglioLineeIsRequired" xml:space="preserve">
+    <value>At least one 'DettaglioLinee' is required.</value>
+  </data>
+  <data name="XmlParsingError" xml:space="preserve">
+    <value>XML Parsing error: {0}</value>
+  </data>
 </root>

@@ -79,11 +79,29 @@ namespace Localization.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to At least one &apos;DettaglioLinee&apos; is required..
+        /// </summary>
+        public static string AtLeastOneDettaglioLineeIsRequired {
+            get {
+                return ResourceManager.GetString("AtLeastOneDettaglioLineeIsRequired", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Cannot delete customer with existing invoices..
         /// </summary>
         public static string CannotDeleteCustomerWithExistingInvoices {
             get {
                 return ResourceManager.GetString("CannotDeleteCustomerWithExistingInvoices", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Customer uses default SDI code &apos;0000000&apos; without PEC email (acceptable for B2C consumer invoices)..
+        /// </summary>
+        public static string CustomerDefaultSdiCode0000000WithoutPec {
+            get {
+                return ResourceManager.GetString("CustomerDefaultSdiCode0000000WithoutPec", resourceCulture);
             }
         }
         
@@ -727,6 +745,15 @@ namespace Localization.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to IO error creating client.
+        /// </summary>
+        public static string IOErrorCreatingClient {
+            get {
+                return ResourceManager.GetString("IOErrorCreatingClient", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Login error.
         /// </summary>
         public static string LoginError {
@@ -750,6 +777,42 @@ namespace Localization.Resources {
         public static string MinimumLengthUtiErrorMessage {
             get {
                 return ResourceManager.GetString("MinimumLengthUtiErrorMessage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Missing mandatory section &apos;CedentePrestatore&apos;..
+        /// </summary>
+        public static string MissingMandatorySectionCdentePrestatore {
+            get {
+                return ResourceManager.GetString("MissingMandatorySectionCdentePrestatore", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Missing mandatory section &apos;CessionarioCommittente&apos;..
+        /// </summary>
+        public static string MissingMandatorySectionCessionarioCommittente {
+            get {
+                return ResourceManager.GetString("MissingMandatorySectionCessionarioCommittente", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Missing mandatory section &apos;FatturaElettronicaBody&apos;..
+        /// </summary>
+        public static string MissingMandatorySectionFatturaElettronicaBody {
+            get {
+                return ResourceManager.GetString("MissingMandatorySectionFatturaElettronicaBody", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Missing mandatory section &apos;FatturaElettronicaHeader&apos;..
+        /// </summary>
+        public static string MissingMandatorySectionFatturaElettronicaHeader {
+            get {
+                return ResourceManager.GetString("MissingMandatorySectionFatturaElettronicaHeader", resourceCulture);
             }
         }
         
@@ -808,6 +871,42 @@ namespace Localization.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Root element must be &apos;FatturaElettronica&apos;..
+        /// </summary>
+        public static string RootElementMustBeFatturaElettronica {
+            get {
+                return ResourceManager.GetString("RootElementMustBeFatturaElettronica", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to SMTP command error creating client.
+        /// </summary>
+        public static string SmtpCommandErrorCreatingClient {
+            get {
+                return ResourceManager.GetString("SmtpCommandErrorCreatingClient", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Socket error creating client.
+        /// </summary>
+        public static string SocketErrorCreatingClient {
+            get {
+                return ResourceManager.GetString("SocketErrorCreatingClient", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to SSL handshake error creating client.
+        /// </summary>
+        public static string SSLHandshakeErrorCreatingClient {
+            get {
+                return ResourceManager.GetString("SSLHandshakeErrorCreatingClient", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Unexpected error occurred deleting user..
         /// </summary>
         public static string UnexpectedErrorOccurredDeletingUser {
@@ -831,6 +930,15 @@ namespace Localization.Resources {
         public static string UploadErrorTitle {
             get {
                 return ResourceManager.GetString("UploadErrorTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to XML Parsing error: {0}.
+        /// </summary>
+        public static string XmlParsingError {
+            get {
+                return ResourceManager.GetString("XmlParsingError", resourceCulture);
             }
         }
     }

@@ -375,4 +375,40 @@
   <data name="AnErrorOccurredWhileInitializingDatabase" xml:space="preserve">
     <value>Une erreur s'est produite lors de l'initialisation de la base de données.</value>
   </data>
+  <data name="SmtpCommandErrorCreatingClient" xml:space="preserve">
+    <value>Erreur de commande SMTP lors de la création du client</value>
+  </data>
+  <data name="IOErrorCreatingClient" xml:space="preserve">
+    <value>Erreur d'E/S lors de la création du client</value>
+  </data>
+  <data name="SocketErrorCreatingClient" xml:space="preserve">
+    <value>Erreur de socket lors de la création du client</value>
+  </data>
+  <data name="SSLHandshakeErrorCreatingClient" xml:space="preserve">
+    <value>Erreur de poignée de main SSL lors de la création du client</value>
+  </data>
+  <data name="CustomerDefaultSdiCode0000000WithoutPec" xml:space="preserve">
+    <value>Le client utilise le code SDI par défaut « 0000000 » sans adresse e-mail PEC (ce qui est acceptable pour les factures destinées aux particuliers/B2C).</value>
+  </data>
+  <data name="RootElementMustBeFatturaElettronica" xml:space="preserve">
+    <value>L'élément racine doit être « FatturaElettronica ».</value>
+  </data>
+  <data name="MissingMandatorySectionFatturaElettronicaHeader" xml:space="preserve">
+    <value>Section obligatoire « FatturaElettronicaHeader » manquante.</value>
+  </data>
+  <data name="MissingMandatorySectionFatturaElettronicaBody" xml:space="preserve">
+    <value>Section obligatoire « FatturaElettronicaBody » manquante.</value>
+  </data>
+  <data name="MissingMandatorySectionCdentePrestatore" xml:space="preserve">
+    <value>Section obligatoire « CedentePrestatore » manquante.</value>
+  </data>
+  <data name="MissingMandatorySectionCessionarioCommittente" xml:space="preserve">
+    <value>Section obligatoire « CessionarioCommittente » manquante.</value>
+  </data>
+  <data name="AtLeastOneDettaglioLineeIsRequired" xml:space="preserve">
+    <value>Au moins un « DettaglioLinee » est requis.</value>
+  </data>
+  <data name="XmlParsingError" xml:space="preserve">
+    <value>Erreur d'analyse XML : {0}</value>
+  </data>
 </root>
