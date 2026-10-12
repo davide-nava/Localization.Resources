@@ -411,4 +411,16 @@
   <data name="XmlParsingError" xml:space="preserve">
     <value>Errore di analisi XML: {0}</value>
   </data>
+  <data name="CustomerWithClientCodeAlreadyExists" xml:space="preserve">
+    <value>Il cliente con codice cliente '{0}' esiste già.</value>
+  </data>
+  <data name="NoTaxCalculatorFoundFor" xml:space="preserve">
+    <value>Nessun calcolatore di imposte trovato per {0}.</value>
+  </data>
+  <data name="ProductWithIdNotFound" xml:space="preserve">
+    <value>Prodotto con ID {0} non trovato.</value>
+  </data>
+  <data name="ProductWithSkuAlreadyExists" xml:space="preserve">
+    <value>Il prodotto con SKU '{0}' esiste già.</value>
+  </data>
 </root>

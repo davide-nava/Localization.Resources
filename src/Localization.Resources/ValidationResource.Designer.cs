@@ -79,6 +79,33 @@ namespace Localization.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Codice Fiscale &apos;{0}&apos; format is invalid.
+        /// </summary>
+        public static string CodiceFiscaleFormatIsInvalid {
+            get {
+                return ResourceManager.GetString("CodiceFiscaleFormatIsInvalid", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Codice Fiscale &apos;{0}&apos; has an invalid check character.
+        /// </summary>
+        public static string CodiceFiscaleHasAnInvalidCheckCharacter {
+            get {
+                return ResourceManager.GetString("CodiceFiscaleHasAnInvalidCheckCharacter", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Codice Fiscale must contain 16 characters. Found: {0}..
+        /// </summary>
+        public static string CodiceFiscaleMustContain16CharactersFound {
+            get {
+                return ResourceManager.GetString("CodiceFiscaleMustContain16CharactersFound", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Company profile for issuer settings is missing..
         /// </summary>
         public static string CompanyProfileForIssuerSettingsIsMissing {
@@ -205,6 +232,24 @@ namespace Localization.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to IBAN &apos;{0}&apos; fails MOD-97 check..
+        /// </summary>
+        public static string IbanFailsMod97Check {
+            get {
+                return ResourceManager.GetString("IbanFailsMod97Check", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to IBAN length is invalid ({0} chars)..
+        /// </summary>
+        public static string IbanLengthIsInvalidChars {
+            get {
+                return ResourceManager.GetString("IbanLengthIsInvalidChars", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Invoice must contain at least one line..
         /// </summary>
         public static string InvoiceMustContainAtLeastOneLine {
@@ -268,6 +313,15 @@ namespace Localization.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Non-numeric character &apos;{0}&apos; encountered in Modulo 10 calculation..
+        /// </summary>
+        public static string NonNumericCharacterEncounteredInModulo10Calculation {
+            get {
+                return ResourceManager.GetString("NonNumericCharacterEncounteredInModulo10Calculation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Partita IVA cannot be empty.
         /// </summary>
         public static string PartitaIvaCannotBeEmpty {
@@ -322,6 +376,24 @@ namespace Localization.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to QRR reference &apos;{0}&apos; has an invalid Modulo 10 check digit..
+        /// </summary>
+        public static string QrrReferenceHasAnInvalidModulo10CheckDigit {
+            get {
+                return ResourceManager.GetString("QrrReferenceHasAnInvalidModulo10CheckDigit", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to QRR reference must contain exactly 27 numeric digits. Found: {0}..
+        /// </summary>
+        public static string QrrReferenceMustContainExactly27NumericDigitsFound {
+            get {
+                return ResourceManager.GetString("QrrReferenceMustContainExactly27NumericDigitsFound", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Quantity must be greater than zero..
         /// </summary>
         public static string QuantityMustBeGreaterThanZero {
@@ -336,6 +408,15 @@ namespace Localization.Resources {
         public static string ScorReferenceCannotBeEmpty {
             get {
                 return ResourceManager.GetString("ScorReferenceCannotBeEmpty", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to SCOR reference must start with &apos;RF&apos; and be between 5 and 25 characters. Found: &apos;{0}&apos;..
+        /// </summary>
+        public static string ScorReferenceMustStartWithRfAndBeBetween5and25charactersFound {
+            get {
+                return ResourceManager.GetString("ScorReferenceMustStartWithRfAndBeBetween5and25charactersFound", resourceCulture);
             }
         }
         

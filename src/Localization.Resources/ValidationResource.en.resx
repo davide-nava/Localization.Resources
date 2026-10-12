@@ -222,4 +222,31 @@
   <data name="IbanCannotBeEmpty" xml:space="preserve">
     <value>IBAN cannot be empty</value>
   </data>
+  <data name="IbanFailsMod97Check" xml:space="preserve">
+    <value>IBAN '{0}' fails MOD-97 check.</value>
+  </data>
+  <data name="IbanLengthIsInvalidChars" xml:space="preserve">
+    <value>IBAN length is invalid ({0} chars).</value>
+  </data>
+  <data name="CodiceFiscaleMustContain16CharactersFound" xml:space="preserve">
+    <value>Codice Fiscale must contain 16 characters. Found: {0}.</value>
+  </data>
+  <data name="CodiceFiscaleFormatIsInvalid" xml:space="preserve">
+    <value>Codice Fiscale '{0}' format is invalid</value>
+  </data>
+  <data name="CodiceFiscaleHasAnInvalidCheckCharacter" xml:space="preserve">
+    <value>Codice Fiscale '{0}' has an invalid check character</value>
+  </data>
+  <data name="NonNumericCharacterEncounteredInModulo10Calculation" xml:space="preserve">
+    <value>Non-numeric character '{0}' encountered in Modulo 10 calculation.</value>
+  </data>
+  <data name="ScorReferenceMustStartWithRfAndBeBetween5and25charactersFound" xml:space="preserve">
+    <value>SCOR reference must start with 'RF' and be between 5 and 25 characters. Found: '{0}'.</value>
+  </data>
+  <data name="QrrReferenceHasAnInvalidModulo10CheckDigit" xml:space="preserve">
+    <value>QRR reference '{0}' has an invalid Modulo 10 check digit.</value>
+  </data>
+  <data name="QrrReferenceMustContainExactly27NumericDigitsFound" xml:space="preserve">
+    <value>QRR reference must contain exactly 27 numeric digits. Found: {0}.</value>
+  </data>
 </root>

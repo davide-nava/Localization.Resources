@@ -106,6 +106,15 @@ namespace Localization.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Customer with ClientCode &apos;{0}&apos; already exists..
+        /// </summary>
+        public static string CustomerWithClientCodeAlreadyExists {
+            get {
+                return ResourceManager.GetString("CustomerWithClientCodeAlreadyExists", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Customer with ID {0} not found..
         /// </summary>
         public static string CustomerWithIdNotFound {
@@ -817,6 +826,15 @@ namespace Localization.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to No tax calculator found for {0}..
+        /// </summary>
+        public static string NoTaxCalculatorFoundFor {
+            get {
+                return ResourceManager.GetString("NoTaxCalculatorFoundFor", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Error deleting PDF.
         /// </summary>
         public static string PdfDeletionErrorMessage {
@@ -858,6 +876,24 @@ namespace Localization.Resources {
         public static string PdfRetrievalErrorTitle {
             get {
                 return ResourceManager.GetString("PdfRetrievalErrorTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Product with ID {0} not found..
+        /// </summary>
+        public static string ProductWithIdNotFound {
+            get {
+                return ResourceManager.GetString("ProductWithIdNotFound", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Product with SKU &apos;{0}&apos; already exists..
+        /// </summary>
+        public static string ProductWithSkuAlreadyExists {
+            get {
+                return ResourceManager.GetString("ProductWithSkuAlreadyExists", resourceCulture);
             }
         }
         

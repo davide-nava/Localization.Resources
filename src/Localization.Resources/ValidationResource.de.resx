@@ -222,4 +222,31 @@
   <data name="IbanCannotBeEmpty" xml:space="preserve">
     <value>Die IBAN darf nicht leer sein.</value>
   </data>
+  <data name="IbanFailsMod97Check" xml:space="preserve">
+    <value>Die IBAN „{0}“ besteht die MOD-97-Prüfung nicht.</value>
+  </data>
+  <data name="IbanLengthIsInvalidChars" xml:space="preserve">
+    <value>Die IBAN-Länge ist ungültig ({0} Zeichen).</value>
+  </data>
+  <data name="CodiceFiscaleMustContain16CharactersFound" xml:space="preserve">
+    <value>Der Codice Fiscale muss 16 Zeichen enthalten. Gefunden: {0}.</value>
+  </data>
+  <data name="CodiceFiscaleFormatIsInvalid" xml:space="preserve">
+    <value>Das Codice Fiscale-Format „{0}“ ist ungültig</value>
+  </data>
+  <data name="CodiceFiscaleHasAnInvalidCheckCharacter" xml:space="preserve">
+    <value>Die Codice Fiscale „{0}“ hat eine ungültige Prüfziffer.</value>
+  </data>
+  <data name="NonNumericCharacterEncounteredInModulo10Calculation" xml:space="preserve">
+    <value>Nicht-numerisches Zeichen „{0}“ bei der Modulo-10-Berechnung aufgetreten.</value>
+  </data>
+  <data name="ScorReferenceMustStartWithRfAndBeBetween5and25charactersFound" xml:space="preserve">
+    <value>Die SCOR-Referenz muss mit „RF“ beginnen und zwischen 5 und 25 Zeichen lang sein. Gefunden: „{0}“.</value>
+  </data>
+  <data name="QrrReferenceHasAnInvalidModulo10CheckDigit" xml:space="preserve">
+    <value>Die QRR-Referenz „{0}“ weist eine ungültige Modulo-10-Prüfziffer auf.</value>
+  </data>
+  <data name="QrrReferenceMustContainExactly27NumericDigitsFound" xml:space="preserve">
+    <value>Die QRR-Referenz muss genau 27 Ziffern enthalten. Gefunden: {0}.</value>
+  </data>
 </root>
