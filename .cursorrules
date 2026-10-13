@@ -1,0 +1,20 @@
+# Localization.Resources Cursor Rules & AI Assistant Constraints
+
+## Technology Stack
+- Language: C# 14 / .NET 11 (preview)
+- Architecture: Clean Architecture & CQRS Integration
+- Testing: xUnit, Moq, Coverlet
+- Code Quality: Roslynator, StyleCop, SonarAnalyzer, Meziantou, TreatWarningsAsErrors
+- Base Libraries: System.Globalization, System.Resources, Microsoft.Extensions.Localization.Abstractions
+
+## Guidelines & Strict Constraints
+1. **Language**: English only for code, XML docs, UI text, logs, and comments.
+2. **Quality**: TreatWarningsAsErrors is active globally. Zero warnings allowed.
+3. **XML Comments**: Always provide comprehensive XML documentation for all types and members.
+4. **Localization Invariants**:
+   - Maintain strongly-typed resource classes (`GenericResource`, `ErrorResource`, `ValidationResource`).
+   - Support English (`en`), German (`de`), French (`fr`), and Italian (`it`) cultures.
+   - Centralize culture manipulation in `CultureInfoHelper`.
+5. **Testing & Coverage**:
+   - Maintain 100% test coverage across lines, branches, and methods.
+   - Use non-parallel collection `[Collection("CultureTests")]` for any test modifying static culture state.

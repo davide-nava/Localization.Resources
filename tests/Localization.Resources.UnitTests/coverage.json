@@ -1,0 +1,5230 @@
+{
+  "Localization.Resources.dll": {
+    "C:\\dev\\Localization.Resources\\src\\Localization.Resources\\ErrorResource.Designer.cs": {
+      "Localization.Resources.ErrorResource": {
+        "System.Resources.ResourceManager Localization.Resources.ErrorResource::get_ResourceManager()": {
+          "Lines": {
+            "40": 87,
+            "41": 88,
+            "42": 1,
+            "43": 1,
+            "44": 1,
+            "45": 87,
+            "46": 87
+          },
+          "Branches": [
+            {
+              "Line": 41,
+              "Offset": 11,
+              "EndOffset": 13,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 41,
+              "Offset": 11,
+              "EndOffset": 47,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 86
+            }
+          ]
+        },
+        "System.Globalization.CultureInfo Localization.Resources.ErrorResource::get_Culture()": {
+          "Lines": {
+            "55": 7,
+            "56": 7,
+            "57": 7
+          },
+          "Branches": []
+        },
+        "System.Void Localization.Resources.ErrorResource::set_Culture(System.Globalization.CultureInfo)": {
+          "Lines": {
+            "58": 7,
+            "59": 7,
+            "60": 7
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_AccessDenied()": {
+          "Lines": {
+            "67": 1,
+            "68": 1,
+            "69": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_DeletionErrorTitle()": {
+          "Lines": {
+            "76": 1,
+            "77": 1,
+            "78": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_DownloadError()": {
+          "Lines": {
+            "85": 1,
+            "86": 1,
+            "87": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_EmailSendErrorMessage()": {
+          "Lines": {
+            "94": 1,
+            "95": 1,
+            "96": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_EmailSendErrorTitle()": {
+          "Lines": {
+            "103": 1,
+            "104": 1,
+            "105": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_EmailValidationError()": {
+          "Lines": {
+            "112": 1,
+            "113": 1,
+            "114": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_Error()": {
+          "Lines": {
+            "121": 2,
+            "122": 2,
+            "123": 2
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_Error404()": {
+          "Lines": {
+            "130": 2,
+            "131": 2,
+            "132": 2
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_Error404Button()": {
+          "Lines": {
+            "139": 2,
+            "140": 2,
+            "141": 2
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_Error404Title()": {
+          "Lines": {
+            "148": 2,
+            "149": 2,
+            "150": 2
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorAcerCode()": {
+          "Lines": {
+            "157": 1,
+            "158": 1,
+            "159": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorBadRequestModelInvalid()": {
+          "Lines": {
+            "166": 1,
+            "167": 1,
+            "168": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorChangingEmail()": {
+          "Lines": {
+            "175": 1,
+            "176": 1,
+            "177": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorChangingUserName()": {
+          "Lines": {
+            "184": 1,
+            "185": 1,
+            "186": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorComparePawword()": {
+          "Lines": {
+            "193": 1,
+            "194": 1,
+            "195": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorConfirmingYourEmail()": {
+          "Lines": {
+            "202": 1,
+            "203": 1,
+            "204": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorContractsDateDifference()": {
+          "Lines": {
+            "211": 1,
+            "212": 1,
+            "213": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorCouldNotAddThePasskey()": {
+          "Lines": {
+            "220": 1,
+            "221": 1,
+            "222": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorCouldNotLoadExternalLoginInfo()": {
+          "Lines": {
+            "229": 1,
+            "230": 1,
+            "231": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorDataTypePassword()": {
+          "Lines": {
+            "238": 1,
+            "239": 1,
+            "240": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorDeliveryEnd()": {
+          "Lines": {
+            "247": 1,
+            "248": 1,
+            "249": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorDeliveryStart()": {
+          "Lines": {
+            "256": 1,
+            "257": 1,
+            "258": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorEmailAddress()": {
+          "Lines": {
+            "265": 1,
+            "266": 1,
+            "267": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorEmptyCommodities()": {
+          "Lines": {
+            "274": 1,
+            "275": 1,
+            "276": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorFailedToSetPhoneNumber()": {
+          "Lines": {
+            "283": 1,
+            "284": 1,
+            "285": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorFindingUserForUnspecifiedEmail()": {
+          "Lines": {
+            "292": 1,
+            "293": 1,
+            "294": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorFormatEmail()": {
+          "Lines": {
+            "301": 1,
+            "302": 1,
+            "303": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorFromExternalProvider()": {
+          "Lines": {
+            "310": 1,
+            "311": 1,
+            "312": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorIncorrectPassword()": {
+          "Lines": {
+            "319": 1,
+            "320": 1,
+            "321": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorInternalServerError()": {
+          "Lines": {
+            "328": 1,
+            "329": 1,
+            "330": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorInvalidaAuthenticatorCode()": {
+          "Lines": {
+            "337": 1,
+            "338": 1,
+            "339": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorInvalidEmailChangeConfirmationLink()": {
+          "Lines": {
+            "346": 1,
+            "347": 1,
+            "348": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorInvalidLoginAttempt()": {
+          "Lines": {
+            "355": 1,
+            "356": 1,
+            "357": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorInvalidRecoveryCode()": {
+          "Lines": {
+            "364": 1,
+            "365": 1,
+            "366": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorLoadingExternalLoginInformation()": {
+          "Lines": {
+            "373": 1,
+            "374": 1,
+            "375": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorLoadingExternalLoginInformationDuringConfirmation()": {
+          "Lines": {
+            "382": 1,
+            "383": 1,
+            "384": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorLoadingUser()": {
+          "Lines": {
+            "391": 1,
+            "392": 1,
+            "393": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorNotFoundMessage()": {
+          "Lines": {
+            "400": 1,
+            "401": 1,
+            "402": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorNotFoundTitle()": {
+          "Lines": {
+            "409": 1,
+            "410": 1,
+            "411": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorRange()": {
+          "Lines": {
+            "418": 1,
+            "419": 1,
+            "420": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorRangeCustom()": {
+          "Lines": {
+            "427": 1,
+            "428": 1,
+            "429": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorRequired()": {
+          "Lines": {
+            "436": 1,
+            "437": 1,
+            "438": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorStringLength()": {
+          "Lines": {
+            "445": 1,
+            "446": 1,
+            "447": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorStringLengthInterval()": {
+          "Lines": {
+            "454": 1,
+            "455": 1,
+            "456": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorTheBbrowserDidNotProvidePasskey()": {
+          "Lines": {
+            "463": 1,
+            "464": 1,
+            "465": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorTheExternalLoginWasNotAddedExternalLoginsCanOnlyBeAssociatedWithOneAccount()": {
+          "Lines": {
+            "472": 1,
+            "473": 1,
+            "474": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorTheExternalLoginWasNotRemoved()": {
+          "Lines": {
+            "481": 1,
+            "482": 1,
+            "483": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorThePasskeyCouldNotBeAddedToYourAccount()": {
+          "Lines": {
+            "490": 1,
+            "491": 1,
+            "492": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorThePasskeyCouldNotBeDeleted()": {
+          "Lines": {
+            "499": 1,
+            "500": 1,
+            "501": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorThePasskeyCouldNotBeUpdated()": {
+          "Lines": {
+            "508": 1,
+            "509": 1,
+            "510": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorTheSpecifiedPasskeyCouldNotBeFound()": {
+          "Lines": {
+            "517": 1,
+            "518": 1,
+            "519": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorTheSpecifiedPasskeyIdHadAnInvalidFormat()": {
+          "Lines": {
+            "526": 1,
+            "527": 1,
+            "528": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorUnauthorized()": {
+          "Lines": {
+            "535": 1,
+            "536": 1,
+            "537": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorUnknownAction()": {
+          "Lines": {
+            "544": 1,
+            "545": 1,
+            "546": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorVerificationCodeInvalid()": {
+          "Lines": {
+            "553": 1,
+            "554": 1,
+            "555": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorXlsRangeCustom()": {
+          "Lines": {
+            "562": 1,
+            "563": 1,
+            "564": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorXlsTemplate()": {
+          "Lines": {
+            "571": 1,
+            "572": 1,
+            "573": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorXlsTemplateData()": {
+          "Lines": {
+            "580": 1,
+            "581": 1,
+            "582": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorXlsTemplateId()": {
+          "Lines": {
+            "589": 1,
+            "590": 1,
+            "591": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorXlsTemplateQta()": {
+          "Lines": {
+            "598": 1,
+            "599": 1,
+            "600": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorXlsTemplateTile()": {
+          "Lines": {
+            "607": 1,
+            "608": 1,
+            "609": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ErrorYouHaveReachedTheMaximumNumberOfAllowedPasskeys()": {
+          "Lines": {
+            "616": 1,
+            "617": 1,
+            "618": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ExportError()": {
+          "Lines": {
+            "625": 1,
+            "626": 1,
+            "627": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_FileUploadErrorMessage()": {
+          "Lines": {
+            "634": 1,
+            "635": 1,
+            "636": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_GenericDataErrorMessage()": {
+          "Lines": {
+            "643": 1,
+            "644": 1,
+            "645": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_GenericDataErrorTitle()": {
+          "Lines": {
+            "652": 1,
+            "653": 1,
+            "654": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_IdentityComponentsEndpointRouteBuilderExtensionsError()": {
+          "Lines": {
+            "661": 1,
+            "662": 1,
+            "663": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_IdentityUserAccessorError()": {
+          "Lines": {
+            "670": 1,
+            "671": 1,
+            "672": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_ImportError()": {
+          "Lines": {
+            "679": 1,
+            "680": 1,
+            "681": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_LoginError()": {
+          "Lines": {
+            "688": 1,
+            "689": 1,
+            "690": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_MaximumLengthUtiErrorMessage()": {
+          "Lines": {
+            "697": 1,
+            "698": 1,
+            "699": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_MinimumLengthUtiErrorMessage()": {
+          "Lines": {
+            "706": 1,
+            "707": 1,
+            "708": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_PdfDeletionErrorMessage()": {
+          "Lines": {
+            "715": 1,
+            "716": 1,
+            "717": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_PdfGenerationErrorMessage()": {
+          "Lines": {
+            "724": 1,
+            "725": 1,
+            "726": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_PdfGenerationErrorTitle()": {
+          "Lines": {
+            "733": 1,
+            "734": 1,
+            "735": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_PdfRetrievalErrorMessage()": {
+          "Lines": {
+            "742": 1,
+            "743": 1,
+            "744": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_PdfRetrievalErrorTitle()": {
+          "Lines": {
+            "751": 1,
+            "752": 1,
+            "753": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_RestoreMessage()": {
+          "Lines": {
+            "760": 1,
+            "761": 1,
+            "762": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_UnexpectedErrorOccurredDeletingUser()": {
+          "Lines": {
+            "769": 1,
+            "770": 1,
+            "771": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_UnexpectedErrorOccurredDisabling2FA()": {
+          "Lines": {
+            "778": 1,
+            "779": 1,
+            "780": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ErrorResource::get_UploadErrorTitle()": {
+          "Lines": {
+            "787": 1,
+            "788": 1,
+            "789": 1
+          },
+          "Branches": []
+        },
+        "System.Void Localization.Resources.ErrorResource::.ctor()": {
+          "Lines": {
+            "32": 2,
+            "33": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\dev\\Localization.Resources\\src\\Localization.Resources\\GenericResource.Designer.cs": {
+      "Localization.Resources.GenericResource": {
+        "System.Resources.ResourceManager Localization.Resources.GenericResource::get_ResourceManager()": {
+          "Lines": {
+            "40": 555,
+            "41": 556,
+            "42": 1,
+            "43": 1,
+            "44": 1,
+            "45": 555,
+            "46": 555
+          },
+          "Branches": [
+            {
+              "Line": 41,
+              "Offset": 11,
+              "EndOffset": 13,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 41,
+              "Offset": 11,
+              "EndOffset": 47,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 554
+            }
+          ]
+        },
+        "System.Globalization.CultureInfo Localization.Resources.GenericResource::get_Culture()": {
+          "Lines": {
+            "55": 7,
+            "56": 7,
+            "57": 7
+          },
+          "Branches": []
+        },
+        "System.Void Localization.Resources.GenericResource::set_Culture(System.Globalization.CultureInfo)": {
+          "Lines": {
+            "58": 7,
+            "59": 7,
+            "60": 7
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Account()": {
+          "Lines": {
+            "67": 2,
+            "68": 2,
+            "69": 2
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ActiveShiftAlreadyExists()": {
+          "Lines": {
+            "76": 2,
+            "77": 2,
+            "78": 2
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_AddAuthenticatorApp()": {
+          "Lines": {
+            "85": 2,
+            "86": 2,
+            "87": 2
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_AddEmail()": {
+          "Lines": {
+            "94": 2,
+            "95": 2,
+            "96": 2
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_AddPasskeyMaximumNumberOfPasskeysReached()": {
+          "Lines": {
+            "103": 1,
+            "104": 1,
+            "105": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Address()": {
+          "Lines": {
+            "112": 1,
+            "113": 1,
+            "114": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_AddressDetail()": {
+          "Lines": {
+            "121": 1,
+            "122": 1,
+            "123": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_AddressType()": {
+          "Lines": {
+            "130": 1,
+            "131": 1,
+            "132": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Agent()": {
+          "Lines": {
+            "139": 1,
+            "140": 1,
+            "141": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_AlertDeleteAddress()": {
+          "Lines": {
+            "148": 1,
+            "149": 1,
+            "150": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_AlertDeleteContract()": {
+          "Lines": {
+            "157": 1,
+            "158": 1,
+            "159": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_AlertDeleteCounterpart()": {
+          "Lines": {
+            "166": 1,
+            "167": 1,
+            "168": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_AlertDeletePaymentTerm()": {
+          "Lines": {
+            "175": 1,
+            "176": 1,
+            "177": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_All()": {
+          "Lines": {
+            "184": 1,
+            "185": 1,
+            "186": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Amount()": {
+          "Lines": {
+            "193": 1,
+            "194": 1,
+            "195": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_AnnualWithdrawal()": {
+          "Lines": {
+            "202": 1,
+            "203": 1,
+            "204": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ArgumentException_CounterType()": {
+          "Lines": {
+            "211": 1,
+            "212": 1,
+            "213": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ArgumentException_DayNotValidForCalculationTypeDay()": {
+          "Lines": {
+            "220": 1,
+            "221": 1,
+            "222": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ArgumentException_IntervalType()": {
+          "Lines": {
+            "229": 1,
+            "230": 1,
+            "231": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ArgumentException_ValueNotValid()": {
+          "Lines": {
+            "238": 1,
+            "239": 1,
+            "240": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_AssociateYour()": {
+          "Lines": {
+            "247": 1,
+            "248": 1,
+            "249": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Attachments()": {
+          "Lines": {
+            "256": 1,
+            "257": 1,
+            "258": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_AuthenticatorApp()": {
+          "Lines": {
+            "265": 1,
+            "266": 1,
+            "267": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_AuthenticatorCode()": {
+          "Lines": {
+            "274": 1,
+            "275": 1,
+            "276": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_AutomaticPasswordUpdate()": {
+          "Lines": {
+            "283": 1,
+            "284": 1,
+            "285": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Bank()": {
+          "Lines": {
+            "292": 1,
+            "293": 1,
+            "294": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_BasePath()": {
+          "Lines": {
+            "301": 1,
+            "302": 1,
+            "303": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_BeforeYouCanLogInWithARecoveryCode()": {
+          "Lines": {
+            "310": 1,
+            "311": 1,
+            "312": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_BreakDurationNegative()": {
+          "Lines": {
+            "319": 1,
+            "320": 1,
+            "321": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Broker()": {
+          "Lines": {
+            "328": 1,
+            "329": 1,
+            "330": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_BrokerRef()": {
+          "Lines": {
+            "337": 1,
+            "338": 1,
+            "339": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Business()": {
+          "Lines": {
+            "346": 1,
+            "347": 1,
+            "348": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_BusinessName()": {
+          "Lines": {
+            "355": 1,
+            "356": 1,
+            "357": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_BuySell()": {
+          "Lines": {
+            "364": 1,
+            "365": 1,
+            "366": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Cancel()": {
+          "Lines": {
+            "373": 1,
+            "374": 1,
+            "375": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_CannotDisable2FAForUserAsItsNotCurrentlyEnabled()": {
+          "Lines": {
+            "382": 1,
+            "383": 1,
+            "384": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_CannotGenerateRecoveryCodesForUserBecauseTheyDoNotHave2FAEnabled()": {
+          "Lines": {
+            "391": 1,
+            "392": 1,
+            "393": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_CantCreateAnInstanceOfApplicationUserEnsureThatIsNotAnAbstractClassAndHasParameterlessConstructor()": {
+          "Lines": {
+            "400": 1,
+            "401": 1,
+            "402": 1,
+            "403": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Category()": {
+          "Lines": {
+            "410": 1,
+            "411": 1,
+            "412": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Certificate()": {
+          "Lines": {
+            "419": 1,
+            "420": 1,
+            "421": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_CertificateExpired()": {
+          "Lines": {
+            "428": 1,
+            "429": 1,
+            "430": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ChangePassword()": {
+          "Lines": {
+            "437": 1,
+            "438": 1,
+            "439": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ChooseYourUsername()": {
+          "Lines": {
+            "446": 1,
+            "447": 1,
+            "448": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Clear()": {
+          "Lines": {
+            "455": 1,
+            "456": 1,
+            "457": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ClearFilters()": {
+          "Lines": {
+            "464": 1,
+            "465": 1,
+            "466": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ClimateZone()": {
+          "Lines": {
+            "473": 1,
+            "474": 1,
+            "475": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Close()": {
+          "Lines": {
+            "482": 1,
+            "483": 1,
+            "484": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Code()": {
+          "Lines": {
+            "491": 1,
+            "492": 1,
+            "493": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Code_Display_Description()": {
+          "Lines": {
+            "500": 1,
+            "501": 1,
+            "502": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Code_Display_Name()": {
+          "Lines": {
+            "509": 1,
+            "510": 1,
+            "511": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Code_Display_Prompt()": {
+          "Lines": {
+            "518": 1,
+            "519": 1,
+            "520": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Code_Display_ShortName()": {
+          "Lines": {
+            "527": 1,
+            "528": 1,
+            "529": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Comma()": {
+          "Lines": {
+            "536": 1,
+            "537": 1,
+            "538": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Company()": {
+          "Lines": {
+            "545": 1,
+            "546": 1,
+            "547": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_CompanyCode()": {
+          "Lines": {
+            "554": 1,
+            "555": 1,
+            "556": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Competence()": {
+          "Lines": {
+            "563": 1,
+            "564": 1,
+            "565": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ConfigureAuthenticatorApp()": {
+          "Lines": {
+            "572": 1,
+            "573": 1,
+            "574": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Confirm()": {
+          "Lines": {
+            "581": 1,
+            "582": 1,
+            "583": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Confirmation()": {
+          "Lines": {
+            "590": 1,
+            "591": 1,
+            "592": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ConfirmationLinkChangeEmailSentPleaseCheckYourEmail()": {
+          "Lines": {
+            "599": 1,
+            "600": 1,
+            "601": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ConfirmDelete()": {
+          "Lines": {
+            "608": 1,
+            "609": 1,
+            "610": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ConfirmDeleteMessage()": {
+          "Lines": {
+            "617": 1,
+            "618": 1,
+            "619": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ConfirmDeleteTitle()": {
+          "Lines": {
+            "626": 1,
+            "627": 1,
+            "628": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ConfirmEmail()": {
+          "Lines": {
+            "635": 1,
+            "636": 1,
+            "637": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ConfirmEmailChange()": {
+          "Lines": {
+            "644": 1,
+            "645": 1,
+            "646": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ConfirmNewPassword()": {
+          "Lines": {
+            "653": 1,
+            "654": 1,
+            "655": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ConfirmPassword()": {
+          "Lines": {
+            "662": 1,
+            "663": 1,
+            "664": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ConfirmRead()": {
+          "Lines": {
+            "671": 1,
+            "672": 1,
+            "673": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Consumer()": {
+          "Lines": {
+            "680": 1,
+            "681": 1,
+            "682": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ContactDetail()": {
+          "Lines": {
+            "689": 1,
+            "690": 1,
+            "691": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ContactDetails()": {
+          "Lines": {
+            "698": 1,
+            "699": 1,
+            "700": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ContactName()": {
+          "Lines": {
+            "707": 1,
+            "708": 1,
+            "709": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ContactType()": {
+          "Lines": {
+            "716": 1,
+            "717": 1,
+            "718": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Continue()": {
+          "Lines": {
+            "725": 1,
+            "726": 1,
+            "727": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Contract()": {
+          "Lines": {
+            "734": 1,
+            "735": 1,
+            "736": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ContractDate()": {
+          "Lines": {
+            "743": 1,
+            "744": 1,
+            "745": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Contracts()": {
+          "Lines": {
+            "752": 1,
+            "753": 1,
+            "754": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ContractsStandard()": {
+          "Lines": {
+            "761": 1,
+            "762": 1,
+            "763": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ContractType()": {
+          "Lines": {
+            "770": 1,
+            "771": 1,
+            "772": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Copy()": {
+          "Lines": {
+            "779": 1,
+            "780": 1,
+            "781": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Counterparties()": {
+          "Lines": {
+            "788": 1,
+            "789": 1,
+            "790": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Country()": {
+          "Lines": {
+            "797": 1,
+            "798": 1,
+            "799": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_CreateNewAccount()": {
+          "Lines": {
+            "806": 1,
+            "807": 1,
+            "808": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_CreateNewContract()": {
+          "Lines": {
+            "815": 1,
+            "816": 1,
+            "817": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_CreateNewCounterparty()": {
+          "Lines": {
+            "824": 1,
+            "825": 1,
+            "826": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Currency()": {
+          "Lines": {
+            "833": 1,
+            "834": 1,
+            "835": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Customer()": {
+          "Lines": {
+            "842": 1,
+            "843": 1,
+            "844": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_CustomerSendDate()": {
+          "Lines": {
+            "851": 1,
+            "852": 1,
+            "853": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_CustomerType()": {
+          "Lines": {
+            "860": 1,
+            "861": 1,
+            "862": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Customs()": {
+          "Lines": {
+            "869": 1,
+            "870": 1,
+            "871": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_DailyAmplitudeExceeded()": {
+          "Lines": {
+            "878": 1,
+            "879": 1,
+            "880": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_DailyRestPeriodViolated()": {
+          "Lines": {
+            "888": 1,
+            "889": 1,
+            "890": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Date()": {
+          "Lines": {
+            "897": 1,
+            "898": 1,
+            "899": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_DateInsert()": {
+          "Lines": {
+            "906": 1,
+            "907": 1,
+            "908": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_DateInsert_Display_Description()": {
+          "Lines": {
+            "915": 1,
+            "916": 1,
+            "917": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_DateInsert_Display_Name()": {
+          "Lines": {
+            "924": 1,
+            "925": 1,
+            "926": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_DateInsert_Display_Prompt()": {
+          "Lines": {
+            "933": 1,
+            "934": 1,
+            "935": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_DateInsert_Display_ShortName()": {
+          "Lines": {
+            "942": 1,
+            "943": 1,
+            "944": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_DateTimeFormat()": {
+          "Lines": {
+            "951": 1,
+            "952": 1,
+            "953": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_DateTimeFormat_Display_Description()": {
+          "Lines": {
+            "960": 1,
+            "961": 1,
+            "962": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_DateTimeFormat_Display_Name()": {
+          "Lines": {
+            "969": 1,
+            "970": 1,
+            "971": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_DateTimeFormat_Display_Prompt()": {
+          "Lines": {
+            "978": 1,
+            "979": 1,
+            "980": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_DateTimeFormat_Display_ShortName()": {
+          "Lines": {
+            "987": 1,
+            "988": 1,
+            "989": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_DatetUpdate()": {
+          "Lines": {
+            "996": 1,
+            "997": 1,
+            "998": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_DatetUpdate_Display_Description()": {
+          "Lines": {
+            "1005": 1,
+            "1006": 1,
+            "1007": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_DatetUpdate_Display_Name()": {
+          "Lines": {
+            "1014": 1,
+            "1015": 1,
+            "1016": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_DatetUpdate_Display_Prompt()": {
+          "Lines": {
+            "1023": 1,
+            "1024": 1,
+            "1025": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_DatetUpdate_Display_ShortName()": {
+          "Lines": {
+            "1032": 1,
+            "1033": 1,
+            "1034": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Days()": {
+          "Lines": {
+            "1041": 1,
+            "1042": 1,
+            "1043": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_DealCloseOn()": {
+          "Lines": {
+            "1050": 1,
+            "1051": 1,
+            "1052": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_DecimalSeparator()": {
+          "Lines": {
+            "1059": 1,
+            "1060": 1,
+            "1061": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_DecimalSeparatorSettings()": {
+          "Lines": {
+            "1068": 1,
+            "1069": 1,
+            "1070": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Delegate()": {
+          "Lines": {
+            "1077": 1,
+            "1078": 1,
+            "1079": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Delete()": {
+          "Lines": {
+            "1086": 1,
+            "1087": 1,
+            "1088": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_DeleteAll()": {
+          "Lines": {
+            "1095": 1,
+            "1096": 1,
+            "1097": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_DeleteDataAndCloseMyAccount()": {
+          "Lines": {
+            "1104": 1,
+            "1105": 1,
+            "1106": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_DeletePersonalData()": {
+          "Lines": {
+            "1113": 1,
+            "1114": 1,
+            "1115": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_DeletePersonalDataAlert()": {
+          "Lines": {
+            "1122": 1,
+            "1123": 1,
+            "1124": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_DeletionSuccessTitle()": {
+          "Lines": {
+            "1131": 1,
+            "1132": 1,
+            "1133": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_DeltaImport()": {
+          "Lines": {
+            "1140": 1,
+            "1141": 1,
+            "1142": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Description()": {
+          "Lines": {
+            "1149": 1,
+            "1150": 1,
+            "1151": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Description_Display_Description()": {
+          "Lines": {
+            "1158": 1,
+            "1159": 1,
+            "1160": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Description_Display_Name()": {
+          "Lines": {
+            "1167": 1,
+            "1168": 1,
+            "1169": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Description_Display_Prompt()": {
+          "Lines": {
+            "1176": 1,
+            "1177": 1,
+            "1178": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Description_Display_ShortName()": {
+          "Lines": {
+            "1185": 1,
+            "1186": 1,
+            "1187": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Disable2Fa()": {
+          "Lines": {
+            "1194": 1,
+            "1195": 1,
+            "1196": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Disable2FaAlert1()": {
+          "Lines": {
+            "1203": 1,
+            "1204": 1,
+            "1205": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Disable2FaAlert2()": {
+          "Lines": {
+            "1212": 1,
+            "1213": 1,
+            "1214": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Disable2FaAlert3()": {
+          "Lines": {
+            "1221": 1,
+            "1222": 1,
+            "1223": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Disabled()": {
+          "Lines": {
+            "1230": 1,
+            "1231": 1,
+            "1232": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Discard()": {
+          "Lines": {
+            "1239": 1,
+            "1240": 1,
+            "1241": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Document()": {
+          "Lines": {
+            "1248": 1,
+            "1249": 1,
+            "1250": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_DontHaveAccessToYourAuthenticatorDeviceYouCan()": {
+          "Lines": {
+            "1257": 1,
+            "1258": 1,
+            "1259": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Dot()": {
+          "Lines": {
+            "1266": 1,
+            "1267": 1,
+            "1268": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Download()": {
+          "Lines": {
+            "1275": 1,
+            "1276": 1,
+            "1277": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_DownloadAll()": {
+          "Lines": {
+            "1284": 1,
+            "1285": 1,
+            "1286": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Downloading()": {
+          "Lines": {
+            "1293": 1,
+            "1294": 1,
+            "1295": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_DownloadRigheContratto()": {
+          "Lines": {
+            "1302": 1,
+            "1303": 1,
+            "1304": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_DownloadTemplateSerie()": {
+          "Lines": {
+            "1311": 1,
+            "1312": 1,
+            "1313": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_DownloadXml()": {
+          "Lines": {
+            "1320": 1,
+            "1321": 1,
+            "1322": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Edit()": {
+          "Lines": {
+            "1329": 1,
+            "1330": 1,
+            "1331": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_EditRows()": {
+          "Lines": {
+            "1338": 1,
+            "1339": 1,
+            "1340": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_EffectiveDate()": {
+          "Lines": {
+            "1347": 1,
+            "1348": 1,
+            "1349": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Email()": {
+          "Lines": {
+            "1356": 1,
+            "1357": 1,
+            "1358": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_EmailSendSuccessMessage()": {
+          "Lines": {
+            "1365": 1,
+            "1366": 1,
+            "1367": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_EmailSendSuccessTitle()": {
+          "Lines": {
+            "1374": 1,
+            "1375": 1,
+            "1376": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_EmployeeNotFound()": {
+          "Lines": {
+            "1383": 1,
+            "1384": 1,
+            "1385": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_EnableAuthenticatorLi1()": {
+          "Lines": {
+            "1392": 1,
+            "1393": 1,
+            "1394": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_EnableAuthenticatorLi2()": {
+          "Lines": {
+            "1401": 1,
+            "1402": 1,
+            "1403": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_EnableAuthenticatorLi3()": {
+          "Lines": {
+            "1410": 1,
+            "1411": 1,
+            "1412": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_EnableAuthenticatorRequestCodeStringLength()": {
+          "Lines": {
+            "1419": 1,
+            "1420": 1,
+            "1421": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Enabled()": {
+          "Lines": {
+            "1428": 1,
+            "1429": 1,
+            "1430": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_EndDate()": {
+          "Lines": {
+            "1437": 1,
+            "1438": 1,
+            "1439": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_EnterNameForYourPasskey()": {
+          "Lines": {
+            "1446": 1,
+            "1447": 1,
+            "1448": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_EnterNewEmail()": {
+          "Lines": {
+            "1455": 1,
+            "1456": 1,
+            "1457": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_EnterNewNameForYourPasskey()": {
+          "Lines": {
+            "1464": 1,
+            "1465": 1,
+            "1466": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_EnterNewPassword()": {
+          "Lines": {
+            "1473": 1,
+            "1474": 1,
+            "1475": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_EnterOldPassword()": {
+          "Lines": {
+            "1482": 1,
+            "1483": 1,
+            "1484": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_EnterTheCode()": {
+          "Lines": {
+            "1491": 1,
+            "1492": 1,
+            "1493": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_EnterYourEmail()": {
+          "Lines": {
+            "1500": 1,
+            "1501": 1,
+            "1502": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_EnterYourPhoneNumber()": {
+          "Lines": {
+            "1509": 1,
+            "1510": 1,
+            "1511": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ExpectedImport()": {
+          "Lines": {
+            "1518": 1,
+            "1519": 1,
+            "1520": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ExpectedPrice()": {
+          "Lines": {
+            "1527": 1,
+            "1528": 1,
+            "1529": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ExpectedQuantity()": {
+          "Lines": {
+            "1536": 1,
+            "1537": 1,
+            "1538": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ExportCsv()": {
+          "Lines": {
+            "1545": 1,
+            "1546": 1,
+            "1547": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ExportXls()": {
+          "Lines": {
+            "1554": 1,
+            "1555": 1,
+            "1556": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ExternalLoginAlert()": {
+          "Lines": {
+            "1563": 1,
+            "1564": 1,
+            "1565": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_File()": {
+          "Lines": {
+            "1572": 1,
+            "1573": 1,
+            "1574": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_FileName()": {
+          "Lines": {
+            "1581": 1,
+            "1582": 1,
+            "1583": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_FilePath()": {
+          "Lines": {
+            "1590": 1,
+            "1591": 1,
+            "1592": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_FileUploadSuccessMessage()": {
+          "Lines": {
+            "1599": 1,
+            "1600": 1,
+            "1601": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_FileZip()": {
+          "Lines": {
+            "1608": 1,
+            "1609": 1,
+            "1610": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_FinalCostumer()": {
+          "Lines": {
+            "1617": 1,
+            "1618": 1,
+            "1619": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_FirstName()": {
+          "Lines": {
+            "1626": 1,
+            "1627": 1,
+            "1628": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_FiscalCode()": {
+          "Lines": {
+            "1635": 1,
+            "1636": 1,
+            "1637": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Flow()": {
+          "Lines": {
+            "1644": 1,
+            "1645": 1,
+            "1646": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ForgetThisBrowser()": {
+          "Lines": {
+            "1653": 1,
+            "1654": 1,
+            "1655": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ForgotPasswordConfirmation()": {
+          "Lines": {
+            "1662": 1,
+            "1663": 1,
+            "1664": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ForgotPasswordConfirmationBody()": {
+          "Lines": {
+            "1671": 1,
+            "1672": 1,
+            "1673": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ForgotYourPassword()": {
+          "Lines": {
+            "1680": 1,
+            "1681": 1,
+            "1682": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Formula()": {
+          "Lines": {
+            "1689": 1,
+            "1690": 1,
+            "1691": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Frequency()": {
+          "Lines": {
+            "1698": 1,
+            "1699": 1,
+            "1700": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_From()": {
+          "Lines": {
+            "1707": 1,
+            "1708": 1,
+            "1709": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_GeneratedFile()": {
+          "Lines": {
+            "1716": 1,
+            "1717": 1,
+            "1718": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_GenerateNewSetOfRecoveryCodes()": {
+          "Lines": {
+            "1725": 1,
+            "1726": 1,
+            "1727": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_GeneratePDF()": {
+          "Lines": {
+            "1734": 1,
+            "1735": 1,
+            "1736": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_GenerateRecoveryCodes()": {
+          "Lines": {
+            "1743": 1,
+            "1744": 1,
+            "1745": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_GenerateRecoveryCodesAlertP1()": {
+          "Lines": {
+            "1752": 1,
+            "1753": 1,
+            "1754": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_GenerateRecoveryCodesAlertP2()": {
+          "Lines": {
+            "1761": 1,
+            "1762": 1,
+            "1763": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_GenerateRecoveryCodesAlertP3()": {
+          "Lines": {
+            "1770": 1,
+            "1771": 1,
+            "1772": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_GenerateRecoveryCodesAlertP3Link()": {
+          "Lines": {
+            "1779": 1,
+            "1780": 1,
+            "1781": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_GenerateReport()": {
+          "Lines": {
+            "1788": 1,
+            "1789": 1,
+            "1790": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_GenerateTwoFactorAuthentication2FARecoveryCode()": {
+          "Lines": {
+            "1797": 1,
+            "1798": 1,
+            "1799": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_GenericType()": {
+          "Lines": {
+            "1806": 1,
+            "1807": 1,
+            "1808": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_GpsTrackingNotice()": {
+          "Lines": {
+            "1815": 1,
+            "1816": 1,
+            "1817": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_GridSummaryItemTypeCount()": {
+          "Lines": {
+            "1824": 1,
+            "1825": 1,
+            "1826": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_HasBeenDisabledYouCanReenable2faWhenYouSetupAnAuthenticatorApp()": {
+          "Lines": {
+            "1833": 1,
+            "1834": 1,
+            "1835": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_HideRegistry()": {
+          "Lines": {
+            "1842": 1,
+            "1843": 1,
+            "1844": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Home()": {
+          "Lines": {
+            "1851": 1,
+            "1852": 1,
+            "1853": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Id()": {
+          "Lines": {
+            "1860": 1,
+            "1861": 1,
+            "1862": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Id_Display_Description()": {
+          "Lines": {
+            "1869": 1,
+            "1870": 1,
+            "1871": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Id_Display_Name()": {
+          "Lines": {
+            "1878": 1,
+            "1879": 1,
+            "1880": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Id_Display_Prompt()": {
+          "Lines": {
+            "1887": 1,
+            "1888": 1,
+            "1889": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Id_Display_ShortName()": {
+          "Lines": {
+            "1896": 1,
+            "1897": 1,
+            "1898": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_IdentityNoOpEmailSenderSendConfirmationLinkText()": {
+          "Lines": {
+            "1905": 1,
+            "1906": 1,
+            "1907": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_IdentityNoOpEmailSenderSendConfirmationLinkTitle()": {
+          "Lines": {
+            "1914": 1,
+            "1915": 1,
+            "1916": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_IdentityNoOpEmailSenderSendPasswordResetCodeText()": {
+          "Lines": {
+            "1923": 1,
+            "1924": 1,
+            "1925": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_IdentityNoOpEmailSenderSendPasswordResetCodeTitle()": {
+          "Lines": {
+            "1932": 1,
+            "1933": 1,
+            "1934": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_IdentityNoOpEmailSenderSendPasswordResetLinkText()": {
+          "Lines": {
+            "1941": 1,
+            "1942": 1,
+            "1943": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_IdentityNoOpEmailSenderSendPasswordResetLinkTitle()": {
+          "Lines": {
+            "1950": 1,
+            "1951": 1,
+            "1952": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Imported()": {
+          "Lines": {
+            "1959": 1,
+            "1960": 1,
+            "1961": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ImportedOn()": {
+          "Lines": {
+            "1968": 1,
+            "1969": 1,
+            "1970": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ImportXlsNotifica()": {
+          "Lines": {
+            "1977": 1,
+            "1978": 1,
+            "1979": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ImportXlsResult0()": {
+          "Lines": {
+            "1986": 1,
+            "1987": 1,
+            "1988": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ImportXlsResultRiga()": {
+          "Lines": {
+            "1995": 1,
+            "1996": 1,
+            "1997": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ImportXlsResultRighe()": {
+          "Lines": {
+            "2004": 1,
+            "2005": 1,
+            "2006": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ImportXlsResultViewerTitle()": {
+          "Lines": {
+            "2013": 1,
+            "2014": 1,
+            "2015": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Index()": {
+          "Lines": {
+            "2022": 1,
+            "2023": 1,
+            "2024": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Index_Display_Description()": {
+          "Lines": {
+            "2031": 1,
+            "2032": 1,
+            "2033": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Index_Display_Name()": {
+          "Lines": {
+            "2040": 1,
+            "2041": 1,
+            "2042": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Index_Display_Prompt()": {
+          "Lines": {
+            "2049": 1,
+            "2050": 1,
+            "2051": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Index_Display_ShortName()": {
+          "Lines": {
+            "2058": 1,
+            "2059": 1,
+            "2060": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_InvalidCellPhoneNumber()": {
+          "Lines": {
+            "2067": 1,
+            "2068": 1,
+            "2069": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_InvalidClockOutTime()": {
+          "Lines": {
+            "2076": 1,
+            "2077": 1,
+            "2078": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_InvalidCredentials()": {
+          "Lines": {
+            "2085": 1,
+            "2086": 1,
+            "2087": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_InvalidEmailAddress()": {
+          "Lines": {
+            "2094": 1,
+            "2095": 1,
+            "2096": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_InvalidFaxNumber()": {
+          "Lines": {
+            "2103": 1,
+            "2104": 1,
+            "2105": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_InvalidFileTypeMessage()": {
+          "Lines": {
+            "2112": 1,
+            "2113": 1,
+            "2114": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_InvalidFiscalCodeForm()": {
+          "Lines": {
+            "2121": 1,
+            "2122": 1,
+            "2123": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_InvalidFiscalCodeFormat()": {
+          "Lines": {
+            "2130": 1,
+            "2131": 1,
+            "2132": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_InvalidLogin()": {
+          "Lines": {
+            "2139": 1,
+            "2140": 1,
+            "2141": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_InvalidPasswordReset()": {
+          "Lines": {
+            "2148": 1,
+            "2149": 1,
+            "2150": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_InvalidPasswordResetBody()": {
+          "Lines": {
+            "2157": 1,
+            "2158": 1,
+            "2159": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_InvalidPEC()": {
+          "Lines": {
+            "2166": 1,
+            "2167": 1,
+            "2168": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_InvalidPhoneNumber()": {
+          "Lines": {
+            "2175": 1,
+            "2176": 1,
+            "2177": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_InvalidUser()": {
+          "Lines": {
+            "2184": 1,
+            "2185": 1,
+            "2186": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_InvalidVatFormat()": {
+          "Lines": {
+            "2193": 1,
+            "2194": 1,
+            "2195": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_InvalidVatFormatItaly()": {
+          "Lines": {
+            "2202": 1,
+            "2203": 1,
+            "2204": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_InvalidVatFormatSwitzerland()": {
+          "Lines": {
+            "2211": 1,
+            "2212": 1,
+            "2213": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_InvoiceLanguage()": {
+          "Lines": {
+            "2220": 1,
+            "2221": 1,
+            "2222": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_IssueDate()": {
+          "Lines": {
+            "2229": 1,
+            "2230": 1,
+            "2231": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Language()": {
+          "Lines": {
+            "2238": 1,
+            "2239": 1,
+            "2240": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Language_Display_Description()": {
+          "Lines": {
+            "2247": 1,
+            "2248": 1,
+            "2249": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Language_Display_Name()": {
+          "Lines": {
+            "2256": 1,
+            "2257": 1,
+            "2258": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Language_Display_Prompt()": {
+          "Lines": {
+            "2265": 1,
+            "2266": 1,
+            "2267": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Language_Display_ShortName()": {
+          "Lines": {
+            "2274": 1,
+            "2275": 1,
+            "2276": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_LastName()": {
+          "Lines": {
+            "2283": 1,
+            "2284": 1,
+            "2285": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_LastRun()": {
+          "Lines": {
+            "2292": 1,
+            "2293": 1,
+            "2294": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_LegalEntity()": {
+          "Lines": {
+            "2301": 1,
+            "2302": 1,
+            "2303": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Loading()": {
+          "Lines": {
+            "2310": 1,
+            "2311": 1,
+            "2312": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_LocationAddress()": {
+          "Lines": {
+            "2319": 1,
+            "2320": 1,
+            "2321": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_LockedOut()": {
+          "Lines": {
+            "2328": 1,
+            "2329": 1,
+            "2330": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Log()": {
+          "Lines": {
+            "2337": 1,
+            "2338": 1,
+            "2339": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Login()": {
+          "Lines": {
+            "2346": 1,
+            "2347": 1,
+            "2348": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_LoginFromYourAccount()": {
+          "Lines": {
+            "2355": 1,
+            "2356": 1,
+            "2357": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_LoginUrl()": {
+          "Lines": {
+            "2364": 1,
+            "2365": 1,
+            "2366": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_LogInUsingYour()": {
+          "Lines": {
+            "2373": 1,
+            "2374": 1,
+            "2375": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_LogInWithAPasskey()": {
+          "Lines": {
+            "2382": 1,
+            "2383": 1,
+            "2384": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_LogInWithARecoveryCode()": {
+          "Lines": {
+            "2391": 1,
+            "2392": 1,
+            "2393": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_LoginWithRecoveryCodeP1()": {
+          "Lines": {
+            "2400": 1,
+            "2401": 1,
+            "2402": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Logout()": {
+          "Lines": {
+            "2409": 1,
+            "2410": 1,
+            "2411": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ManageEmail()": {
+          "Lines": {
+            "2418": 1,
+            "2419": 1,
+            "2420": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Manager()": {
+          "Lines": {
+            "2427": 1,
+            "2428": 1,
+            "2429": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ManageYourExternalLogins()": {
+          "Lines": {
+            "2436": 1,
+            "2437": 1,
+            "2438": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ManageYourPasskeys()": {
+          "Lines": {
+            "2445": 1,
+            "2446": 1,
+            "2447": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_MonthlyQuantityAggregated()": {
+          "Lines": {
+            "2454": 1,
+            "2455": 1,
+            "2456": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_MoveFileHere()": {
+          "Lines": {
+            "2463": 1,
+            "2464": 1,
+            "2465": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_MyPasskey()": {
+          "Lines": {
+            "2472": 1,
+            "2473": 1,
+            "2474": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Navback()": {
+          "Lines": {
+            "2481": 1,
+            "2482": 1,
+            "2483": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_New()": {
+          "Lines": {
+            "2490": 1,
+            "2491": 1,
+            "2492": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_NewContract()": {
+          "Lines": {
+            "2499": 1,
+            "2500": 1,
+            "2501": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_NewEmail()": {
+          "Lines": {
+            "2508": 1,
+            "2509": 1,
+            "2510": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_NewPassword()": {
+          "Lines": {
+            "2517": 1,
+            "2518": 1,
+            "2519": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_No()": {
+          "Lines": {
+            "2526": 1,
+            "2527": 1,
+            "2528": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_NoActiveShiftFound()": {
+          "Lines": {
+            "2535": 1,
+            "2536": 1,
+            "2537": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_NoPasskeysAreRegistered()": {
+          "Lines": {
+            "2544": 1,
+            "2545": 1,
+            "2546": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_NoReferencesFound()": {
+          "Lines": {
+            "2553": 1,
+            "2554": 1,
+            "2555": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Note()": {
+          "Lines": {
+            "2562": 1,
+            "2563": 1,
+            "2564": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_NotFound()": {
+          "Lines": {
+            "2571": 1,
+            "2572": 1,
+            "2573": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_NotFoundMessage()": {
+          "Lines": {
+            "2580": 1,
+            "2581": 1,
+            "2582": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_NotificationCenterPanelDismissAll()": {
+          "Lines": {
+            "2589": 1,
+            "2590": 1,
+            "2591": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_NotificationCenterPanelTitle()": {
+          "Lines": {
+            "2598": 1,
+            "2599": 1,
+            "2600": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Number()": {
+          "Lines": {
+            "2607": 1,
+            "2608": 1,
+            "2609": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_NumberDecimalSeparator()": {
+          "Lines": {
+            "2616": 1,
+            "2617": 1,
+            "2618": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_NumberDecimalSeparator_Display_Description()": {
+          "Lines": {
+            "2625": 1,
+            "2626": 1,
+            "2627": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_NumberDecimalSeparator_Display_Name()": {
+          "Lines": {
+            "2634": 1,
+            "2635": 1,
+            "2636": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_NumberDecimalSeparator_Display_Prompt()": {
+          "Lines": {
+            "2643": 1,
+            "2644": 1,
+            "2645": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_NumberDecimalSeparator_Display_ShortName()": {
+          "Lines": {
+            "2652": 1,
+            "2653": 1,
+            "2654": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_NumberGroupSeparator()": {
+          "Lines": {
+            "2661": 1,
+            "2662": 1,
+            "2663": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_NumberGroupSeparator_Display_Description()": {
+          "Lines": {
+            "2670": 1,
+            "2671": 1,
+            "2672": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_NumberGroupSeparator_Display_Name()": {
+          "Lines": {
+            "2679": 1,
+            "2680": 1,
+            "2681": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_NumberGroupSeparator_Display_Prompt()": {
+          "Lines": {
+            "2688": 1,
+            "2689": 1,
+            "2690": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_NumberGroupSeparator_Display_ShortName()": {
+          "Lines": {
+            "2697": 1,
+            "2698": 1,
+            "2699": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_O()": {
+          "Lines": {
+            "2706": 1,
+            "2707": 1,
+            "2708": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Office()": {
+          "Lines": {
+            "2715": 1,
+            "2716": 1,
+            "2717": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_OfficeCode()": {
+          "Lines": {
+            "2724": 1,
+            "2725": 1,
+            "2726": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Ok()": {
+          "Lines": {
+            "2733": 1,
+            "2734": 1,
+            "2735": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_OldPassword()": {
+          "Lines": {
+            "2742": 1,
+            "2743": 1,
+            "2744": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Options()": {
+          "Lines": {
+            "2751": 1,
+            "2752": 1,
+            "2753": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Or()": {
+          "Lines": {
+            "2760": 1,
+            "2761": 1,
+            "2762": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Overview()": {
+          "Lines": {
+            "2769": 1,
+            "2770": 1,
+            "2771": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_PageSize()": {
+          "Lines": {
+            "2778": 1,
+            "2779": 1,
+            "2780": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_PasskeyDeletedSuccessfully()": {
+          "Lines": {
+            "2787": 1,
+            "2788": 1,
+            "2789": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_PasskeyName()": {
+          "Lines": {
+            "2796": 1,
+            "2797": 1,
+            "2798": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_PasskeyNamesMustBeNoLongerThanCharacters()": {
+          "Lines": {
+            "2805": 1,
+            "2806": 1,
+            "2807": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_PasskeyUpdatedSuccessfully()": {
+          "Lines": {
+            "2814": 1,
+            "2815": 1,
+            "2816": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Password()": {
+          "Lines": {
+            "2823": 1,
+            "2824": 1,
+            "2825": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_PasswordForgot()": {
+          "Lines": {
+            "2832": 1,
+            "2833": 1,
+            "2834": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_PasswordRequirements()": {
+          "Lines": {
+            "2841": 1,
+            "2842": 1,
+            "2843": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_PasswordResetLink_Body()": {
+          "Lines": {
+            "2850": 1,
+            "2851": 1,
+            "2852": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_PasswordResetLink_Link()": {
+          "Lines": {
+            "2859": 1,
+            "2860": 1,
+            "2861": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_PasswordResetLink_Subject()": {
+          "Lines": {
+            "2868": 1,
+            "2869": 1,
+            "2870": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_PasswordState()": {
+          "Lines": {
+            "2877": 1,
+            "2878": 1,
+            "2879": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_PaymentDay()": {
+          "Lines": {
+            "2886": 1,
+            "2887": 1,
+            "2888": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_PaymentTerms()": {
+          "Lines": {
+            "2895": 1,
+            "2896": 1,
+            "2897": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_PaymentTime()": {
+          "Lines": {
+            "2904": 1,
+            "2905": 1,
+            "2906": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_PaymentTimeId()": {
+          "Lines": {
+            "2913": 1,
+            "2914": 1,
+            "2915": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_PaymentType()": {
+          "Lines": {
+            "2922": 1,
+            "2923": 1,
+            "2924": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_PdfDeletionSuccessMessage()": {
+          "Lines": {
+            "2931": 1,
+            "2932": 1,
+            "2933": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_PdfGenerationSuccessMessage()": {
+          "Lines": {
+            "2940": 1,
+            "2941": 1,
+            "2942": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_PdfGenerationSuccessTitle()": {
+          "Lines": {
+            "2949": 1,
+            "2950": 1,
+            "2951": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_PendingChangesModalMessage()": {
+          "Lines": {
+            "2958": 1,
+            "2959": 1,
+            "2960": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_PendingChangesModalTitle()": {
+          "Lines": {
+            "2967": 1,
+            "2968": 1,
+            "2969": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Period()": {
+          "Lines": {
+            "2976": 1,
+            "2977": 1,
+            "2978": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_PeriodStart()": {
+          "Lines": {
+            "2985": 1,
+            "2986": 1,
+            "2987": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_PersonalData()": {
+          "Lines": {
+            "2994": 1,
+            "2995": 1,
+            "2996": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_PersonalDataP1()": {
+          "Lines": {
+            "3003": 1,
+            "3004": 1,
+            "3005": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_PersonalDataP2()": {
+          "Lines": {
+            "3012": 1,
+            "3013": 1,
+            "3014": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_PhoneNumber()": {
+          "Lines": {
+            "3021": 1,
+            "3022": 1,
+            "3023": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_PlaceholderSearchBox()": {
+          "Lines": {
+            "3030": 1,
+            "3031": 1,
+            "3032": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Platform()": {
+          "Lines": {
+            "3039": 1,
+            "3040": 1,
+            "3041": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_PleaseCheckYourEmailToConfirmYourAccount()": {
+          "Lines": {
+            "3048": 1,
+            "3049": 1,
+            "3050": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_PleaseCheckYourEmailToResetYourPassword()": {
+          "Lines": {
+            "3057": 1,
+            "3058": 1,
+            "3059": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_PleaseConfirmYourPassword()": {
+          "Lines": {
+            "3066": 1,
+            "3067": 1,
+            "3068": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_PleaseEnterYourEmail()": {
+          "Lines": {
+            "3075": 1,
+            "3076": 1,
+            "3077": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_PleaseEnterYourPassword()": {
+          "Lines": {
+            "3084": 1,
+            "3085": 1,
+            "3086": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Portal()": {
+          "Lines": {
+            "3093": 1,
+            "3094": 1,
+            "3095": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_PortalName()": {
+          "Lines": {
+            "3102": 1,
+            "3103": 1,
+            "3104": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Portals()": {
+          "Lines": {
+            "3111": 1,
+            "3112": 1,
+            "3113": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_PortalUrl()": {
+          "Lines": {
+            "3120": 1,
+            "3121": 1,
+            "3122": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_PostalCode()": {
+          "Lines": {
+            "3129": 1,
+            "3130": 1,
+            "3131": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Power()": {
+          "Lines": {
+            "3138": 1,
+            "3139": 1,
+            "3140": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Practices()": {
+          "Lines": {
+            "3147": 1,
+            "3148": 1,
+            "3149": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_PracticeType()": {
+          "Lines": {
+            "3156": 1,
+            "3157": 1,
+            "3158": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Price()": {
+          "Lines": {
+            "3165": 1,
+            "3166": 1,
+            "3167": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_PriceAverage()": {
+          "Lines": {
+            "3174": 1,
+            "3175": 1,
+            "3176": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_PriceForming()": {
+          "Lines": {
+            "3183": 1,
+            "3184": 1,
+            "3185": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Product()": {
+          "Lines": {
+            "3192": 1,
+            "3193": 1,
+            "3194": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Profile()": {
+          "Lines": {
+            "3201": 1,
+            "3202": 1,
+            "3203": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Provider()": {
+          "Lines": {
+            "3210": 1,
+            "3211": 1,
+            "3212": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Province()": {
+          "Lines": {
+            "3219": 1,
+            "3220": 1,
+            "3221": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_PublishDate()": {
+          "Lines": {
+            "3228": 1,
+            "3229": 1,
+            "3230": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_PwsExpired()": {
+          "Lines": {
+            "3237": 1,
+            "3238": 1,
+            "3239": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_PwsWrong()": {
+          "Lines": {
+            "3246": 1,
+            "3247": 1,
+            "3248": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Qta()": {
+          "Lines": {
+            "3255": 1,
+            "3256": 1,
+            "3257": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Quantity()": {
+          "Lines": {
+            "3264": 1,
+            "3265": 1,
+            "3266": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_QuantityUnit()": {
+          "Lines": {
+            "3273": 1,
+            "3274": 1,
+            "3275": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ReceiveDate()": {
+          "Lines": {
+            "3282": 1,
+            "3283": 1,
+            "3284": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ReconnectModalFailedRejoin()": {
+          "Lines": {
+            "3291": 1,
+            "3292": 1,
+            "3293": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ReconnectModalFailedResumeSession()": {
+          "Lines": {
+            "3300": 1,
+            "3301": 1,
+            "3302": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ReconnectModalRejoinFailed()": {
+          "Lines": {
+            "3309": 1,
+            "3310": 1,
+            "3311": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ReconnectModalRejoining()": {
+          "Lines": {
+            "3318": 1,
+            "3319": 1,
+            "3320": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ReconnectModalResume()": {
+          "Lines": {
+            "3327": 1,
+            "3328": 1,
+            "3329": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ReconnectModalRetry()": {
+          "Lines": {
+            "3336": 1,
+            "3337": 1,
+            "3338": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ReconnectModalSessionPaused()": {
+          "Lines": {
+            "3345": 1,
+            "3346": 1,
+            "3347": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_RecoveryCode()": {
+          "Lines": {
+            "3354": 1,
+            "3355": 1,
+            "3356": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_RecoveryCodesLeft()": {
+          "Lines": {
+            "3363": 1,
+            "3364": 1,
+            "3365": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_RecoveryCodeVerification()": {
+          "Lines": {
+            "3372": 1,
+            "3373": 1,
+            "3374": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_References()": {
+          "Lines": {
+            "3381": 1,
+            "3382": 1,
+            "3383": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Register()": {
+          "Lines": {
+            "3390": 1,
+            "3391": 1,
+            "3392": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_RegisterAsANewUser()": {
+          "Lines": {
+            "3399": 1,
+            "3400": 1,
+            "3401": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_RegisterConfirmation()": {
+          "Lines": {
+            "3408": 1,
+            "3409": 1,
+            "3410": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_RegisterConfirmationEmailConfirmationLink()": {
+          "Lines": {
+            "3417": 1,
+            "3418": 1,
+            "3419": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_RegisteredLogins()": {
+          "Lines": {
+            "3426": 1,
+            "3427": 1,
+            "3428": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Registry()": {
+          "Lines": {
+            "3435": 1,
+            "3436": 1,
+            "3437": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_RememberMe()": {
+          "Lines": {
+            "3444": 1,
+            "3445": 1,
+            "3446": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_RememberThisMachine()": {
+          "Lines": {
+            "3453": 1,
+            "3454": 1,
+            "3455": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Remove()": {
+          "Lines": {
+            "3462": 1,
+            "3463": 1,
+            "3464": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_RemoveEmail()": {
+          "Lines": {
+            "3471": 1,
+            "3472": 1,
+            "3473": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_RemoveThis()": {
+          "Lines": {
+            "3480": 1,
+            "3481": 1,
+            "3482": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_RemoveThisPasskeyFromYourAccount()": {
+          "Lines": {
+            "3489": 1,
+            "3490": 1,
+            "3491": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_RenameThisPasskey()": {
+          "Lines": {
+            "3498": 1,
+            "3499": 1,
+            "3500": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ReportedFile()": {
+          "Lines": {
+            "3507": 1,
+            "3508": 1,
+            "3509": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ReportedImport()": {
+          "Lines": {
+            "3516": 1,
+            "3517": 1,
+            "3518": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ReportedPrice()": {
+          "Lines": {
+            "3525": 1,
+            "3526": 1,
+            "3527": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ReportedQuantity()": {
+          "Lines": {
+            "3534": 1,
+            "3535": 1,
+            "3536": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ReportingDelegate()": {
+          "Lines": {
+            "3543": 1,
+            "3544": 1,
+            "3545": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_RequestDate()": {
+          "Lines": {
+            "3552": 1,
+            "3553": 1,
+            "3554": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Resend()": {
+          "Lines": {
+            "3561": 1,
+            "3562": 1,
+            "3563": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ResendEmailConfirmation()": {
+          "Lines": {
+            "3570": 1,
+            "3571": 1,
+            "3572": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Reset()": {
+          "Lines": {
+            "3579": 1,
+            "3580": 1,
+            "3581": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ResetAuthenticatorApp()": {
+          "Lines": {
+            "3588": 1,
+            "3589": 1,
+            "3590": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ResetAuthenticatorKey()": {
+          "Lines": {
+            "3597": 1,
+            "3598": 1,
+            "3599": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ResetAuthenticatorKeyP1()": {
+          "Lines": {
+            "3606": 1,
+            "3607": 1,
+            "3608": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ResetAuthenticatorKeyP2()": {
+          "Lines": {
+            "3615": 1,
+            "3616": 1,
+            "3617": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ResetPassword()": {
+          "Lines": {
+            "3624": 1,
+            "3625": 1,
+            "3626": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ResetPasswordConfirmationR1()": {
+          "Lines": {
+            "3633": 1,
+            "3634": 1,
+            "3635": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ResetPasswordConfirmationR2()": {
+          "Lines": {
+            "3642": 1,
+            "3643": 1,
+            "3644": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ResetPasswordConfirmationTitle()": {
+          "Lines": {
+            "3651": 1,
+            "3652": 1,
+            "3653": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ResetRecoveryCodes()": {
+          "Lines": {
+            "3660": 1,
+            "3661": 1,
+            "3662": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ResetYourPassword()": {
+          "Lines": {
+            "3669": 1,
+            "3670": 1,
+            "3671": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Restore()": {
+          "Lines": {
+            "3678": 1,
+            "3679": 1,
+            "3680": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Save()": {
+          "Lines": {
+            "3687": 1,
+            "3688": 1,
+            "3689": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_SaveModalMessageContract()": {
+          "Lines": {
+            "3696": 1,
+            "3697": 1,
+            "3698": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_SaveModalMessageSetting()": {
+          "Lines": {
+            "3705": 1,
+            "3706": 1,
+            "3707": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_SaveModalTitleContract()": {
+          "Lines": {
+            "3714": 1,
+            "3715": 1,
+            "3716": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_SaveModalTitleSettings()": {
+          "Lines": {
+            "3723": 1,
+            "3724": 1,
+            "3725": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_SavePrimaryAction()": {
+          "Lines": {
+            "3732": 1,
+            "3733": 1,
+            "3734": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_SaveSecondaryAction()": {
+          "Lines": {
+            "3741": 1,
+            "3742": 1,
+            "3743": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_SaveSuccessModalMessage()": {
+          "Lines": {
+            "3750": 1,
+            "3751": 1,
+            "3752": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_SaveSuccessModalTitle()": {
+          "Lines": {
+            "3759": 1,
+            "3760": 1,
+            "3761": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Search()": {
+          "Lines": {
+            "3768": 1,
+            "3769": 1,
+            "3770": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_SearchFilePoint()": {
+          "Lines": {
+            "3777": 1,
+            "3778": 1,
+            "3779": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_SelectFile()": {
+          "Lines": {
+            "3786": 1,
+            "3787": 1,
+            "3788": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Send()": {
+          "Lines": {
+            "3795": 1,
+            "3796": 1,
+            "3797": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_SendDate()": {
+          "Lines": {
+            "3804": 1,
+            "3805": 1,
+            "3806": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_SendNewPassword()": {
+          "Lines": {
+            "3813": 1,
+            "3814": 1,
+            "3815": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_SendNewPasswordToUsers()": {
+          "Lines": {
+            "3822": 1,
+            "3823": 1,
+            "3824": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_SendVerificationEmail()": {
+          "Lines": {
+            "3831": 1,
+            "3832": 1,
+            "3833": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Sequence()": {
+          "Lines": {
+            "3840": 1,
+            "3841": 1,
+            "3842": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_SequenceItem()": {
+          "Lines": {
+            "3849": 1,
+            "3850": 1,
+            "3851": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ServiceType()": {
+          "Lines": {
+            "3858": 1,
+            "3859": 1,
+            "3860": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_SetPassword()": {
+          "Lines": {
+            "3867": 1,
+            "3868": 1,
+            "3869": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_SetPasswordInfo()": {
+          "Lines": {
+            "3876": 1,
+            "3877": 1,
+            "3878": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_SetReadAll()": {
+          "Lines": {
+            "3885": 1,
+            "3886": 1,
+            "3887": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_SetUpAuthenticatorApp()": {
+          "Lines": {
+            "3894": 1,
+            "3895": 1,
+            "3896": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_SetYourPassword()": {
+          "Lines": {
+            "3903": 1,
+            "3904": 1,
+            "3905": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ShowFilterGrid()": {
+          "Lines": {
+            "3912": 1,
+            "3913": 1,
+            "3914": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ShowRecoveryCodesR1()": {
+          "Lines": {
+            "3921": 1,
+            "3922": 1,
+            "3923": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ShowRecoveryCodesR2()": {
+          "Lines": {
+            "3930": 1,
+            "3931": 1,
+            "3932": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ShowRecoveryCodesTitle()": {
+          "Lines": {
+            "3939": 1,
+            "3940": 1,
+            "3941": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Sign()": {
+          "Lines": {
+            "3948": 1,
+            "3949": 1,
+            "3950": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_SkipLogin()": {
+          "Lines": {
+            "3957": 1,
+            "3958": 1,
+            "3959": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_SkipLoginInfo()": {
+          "Lines": {
+            "3966": 1,
+            "3967": 1,
+            "3968": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_SmartCard()": {
+          "Lines": {
+            "3975": 1,
+            "3976": 1,
+            "3977": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_StandardWithdrawalProfile()": {
+          "Lines": {
+            "3984": 1,
+            "3985": 1,
+            "3986": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_StartDate()": {
+          "Lines": {
+            "3993": 1,
+            "3994": 1,
+            "3995": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_State()": {
+          "Lines": {
+            "4002": 1,
+            "4003": 1,
+            "4004": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Status()": {
+          "Lines": {
+            "4011": 1,
+            "4012": 1,
+            "4013": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_StreetNumber()": {
+          "Lines": {
+            "4020": 1,
+            "4021": 1,
+            "4022": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Telephone()": {
+          "Lines": {
+            "4029": 1,
+            "4030": 1,
+            "4031": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Tenant()": {
+          "Lines": {
+            "4038": 1,
+            "4039": 1,
+            "4040": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_TenantId()": {
+          "Lines": {
+            "4047": 1,
+            "4048": 1,
+            "4049": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_TenantId_Display_Description()": {
+          "Lines": {
+            "4056": 1,
+            "4057": 1,
+            "4058": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_TenantId_Display_Name()": {
+          "Lines": {
+            "4065": 1,
+            "4066": 1,
+            "4067": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_TenantId_Display_Prompt()": {
+          "Lines": {
+            "4074": 1,
+            "4075": 1,
+            "4076": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_TenantId_Display_ShortName()": {
+          "Lines": {
+            "4083": 1,
+            "4084": 1,
+            "4085": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ThankYouForConfirmingYourEmail()": {
+          "Lines": {
+            "4092": 1,
+            "4093": 1,
+            "4094": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ThankYouForConfirmingYourEmailChange()": {
+          "Lines": {
+            "4101": 1,
+            "4102": 1,
+            "4103": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_TheDefaultUIRequiresAUserStoreWithEmailSupport()": {
+          "Lines": {
+            "4110": 1,
+            "4111": 1,
+            "4112": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_TheExternalLoginWasAdded()": {
+          "Lines": {
+            "4119": 1,
+            "4120": 1,
+            "4121": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_TheExternalLoginWasRemoved()": {
+          "Lines": {
+            "4128": 1,
+            "4129": 1,
+            "4130": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Theme()": {
+          "Lines": {
+            "4137": 1,
+            "4138": 1,
+            "4139": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Theme_Display_Description()": {
+          "Lines": {
+            "4146": 1,
+            "4147": 1,
+            "4148": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Theme_Display_Name()": {
+          "Lines": {
+            "4155": 1,
+            "4156": 1,
+            "4157": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Theme_Display_Prompt()": {
+          "Lines": {
+            "4164": 1,
+            "4165": 1,
+            "4166": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Theme_Display_ShortName()": {
+          "Lines": {
+            "4173": 1,
+            "4174": 1,
+            "4175": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_TheNewPasswordAndConfirmationPasswordDoNotMatch()": {
+          "Lines": {
+            "4182": 1,
+            "4183": 1,
+            "4184": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ThePasswordAndConfirmationPasswordDoNotMatch()": {
+          "Lines": {
+            "4191": 1,
+            "4192": 1,
+            "4193": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ThePasswordResetLinkIsInvalid()": {
+          "Lines": {
+            "4200": 1,
+            "4201": 1,
+            "4202": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ThisAccountHasBeenLockedOutPleaseTryAgainLater()": {
+          "Lines": {
+            "4209": 1,
+            "4210": 1,
+            "4211": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_TimeEntryNotFound()": {
+          "Lines": {
+            "4218": 1,
+            "4219": 1,
+            "4220": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Timestamp()": {
+          "Lines": {
+            "4227": 1,
+            "4228": 1,
+            "4229": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_TimeType()": {
+          "Lines": {
+            "4236": 1,
+            "4237": 1,
+            "4238": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_To()": {
+          "Lines": {
+            "4245": 1,
+            "4246": 1,
+            "4247": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ToReport()": {
+          "Lines": {
+            "4254": 1,
+            "4255": 1,
+            "4256": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Total()": {
+          "Lines": {
+            "4263": 1,
+            "4264": 1,
+            "4265": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_TotalDays()": {
+          "Lines": {
+            "4272": 1,
+            "4273": 1,
+            "4274": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_TotalHours()": {
+          "Lines": {
+            "4281": 1,
+            "4282": 1,
+            "4283": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_TotalIncorrectRows()": {
+          "Lines": {
+            "4290": 1,
+            "4291": 1,
+            "4292": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_TotalMonths()": {
+          "Lines": {
+            "4299": 1,
+            "4300": 1,
+            "4301": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_TotalQuantity()": {
+          "Lines": {
+            "4308": 1,
+            "4309": 1,
+            "4310": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_TotalRows()": {
+          "Lines": {
+            "4317": 1,
+            "4318": 1,
+            "4319": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_TotalValidRows()": {
+          "Lines": {
+            "4326": 1,
+            "4327": 1,
+            "4328": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Town()": {
+          "Lines": {
+            "4335": 1,
+            "4336": 1,
+            "4337": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Towns()": {
+          "Lines": {
+            "4344": 1,
+            "4345": 1,
+            "4346": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_TransportCapacity()": {
+          "Lines": {
+            "4353": 1,
+            "4354": 1,
+            "4355": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Treatment()": {
+          "Lines": {
+            "4362": 1,
+            "4363": 1,
+            "4364": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_TwoFactorAuthentication2FA()": {
+          "Lines": {
+            "4371": 1,
+            "4372": 1,
+            "4373": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_TwoFactorAuthenticationDisable2FA()": {
+          "Lines": {
+            "4380": 1,
+            "4381": 1,
+            "4382": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_TwoFactorAuthenticationNotTrackAlert()": {
+          "Lines": {
+            "4389": 1,
+            "4390": 1,
+            "4391": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_TwoFactorAuthenticationRedirectToCurrentPageWithStatus()": {
+          "Lines": {
+            "4398": 1,
+            "4399": 1,
+            "4400": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Type()": {
+          "Lines": {
+            "4407": 1,
+            "4408": 1,
+            "4409": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_TypeSubject()": {
+          "Lines": {
+            "4416": 1,
+            "4417": 1,
+            "4418": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_UnableToFindUser()": {
+          "Lines": {
+            "4425": 1,
+            "4426": 1,
+            "4427": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_UnableToLoadTwoFactorAuthenticationUser()": {
+          "Lines": {
+            "4434": 1,
+            "4435": 1,
+            "4436": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_UnitOfMeasure()": {
+          "Lines": {
+            "4443": 1,
+            "4444": 1,
+            "4445": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_UnnamedPasskey()": {
+          "Lines": {
+            "4452": 1,
+            "4453": 1,
+            "4454": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Update()": {
+          "Lines": {
+            "4461": 1,
+            "4462": 1,
+            "4463": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Updated()": {
+          "Lines": {
+            "4470": 1,
+            "4471": 1,
+            "4472": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_UpdateDataFromCache()": {
+          "Lines": {
+            "4479": 1,
+            "4480": 1,
+            "4481": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_UpdateSuccededNotificationHeader()": {
+          "Lines": {
+            "4488": 1,
+            "4489": 1,
+            "4490": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Upload()": {
+          "Lines": {
+            "4497": 1,
+            "4498": 1,
+            "4499": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_UploadFile()": {
+          "Lines": {
+            "4506": 1,
+            "4507": 1,
+            "4508": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_UploadSerie()": {
+          "Lines": {
+            "4515": 1,
+            "4516": 1,
+            "4517": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_UploadSuccessTitle()": {
+          "Lines": {
+            "4524": 1,
+            "4525": 1,
+            "4526": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_UseALocalAccountToLogIn()": {
+          "Lines": {
+            "4533": 1,
+            "4534": 1,
+            "4535": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_UseAnotherServiceToLogIn()": {
+          "Lines": {
+            "4542": 1,
+            "4543": 1,
+            "4544": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_UseAnotherServiceToRegister()": {
+          "Lines": {
+            "4551": 1,
+            "4552": 1,
+            "4553": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_User()": {
+          "Lines": {
+            "4560": 1,
+            "4561": 1,
+            "4562": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_UserInsert()": {
+          "Lines": {
+            "4569": 1,
+            "4570": 1,
+            "4571": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_UserInsertId()": {
+          "Lines": {
+            "4578": 1,
+            "4579": 1,
+            "4580": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_UserInsertId_Display_Description()": {
+          "Lines": {
+            "4587": 1,
+            "4588": 1,
+            "4589": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_UserInsertId_Display_Name()": {
+          "Lines": {
+            "4596": 1,
+            "4597": 1,
+            "4598": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_UserInsertId_Display_Prompt()": {
+          "Lines": {
+            "4605": 1,
+            "4606": 1,
+            "4607": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_UserInsertId_Display_ShortName()": {
+          "Lines": {
+            "4614": 1,
+            "4615": 1,
+            "4616": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_UserName()": {
+          "Lines": {
+            "4623": 1,
+            "4624": 1,
+            "4625": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_UserSettings()": {
+          "Lines": {
+            "4632": 1,
+            "4633": 1,
+            "4634": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_UserUpdate()": {
+          "Lines": {
+            "4641": 1,
+            "4642": 1,
+            "4643": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_UserUpdateId()": {
+          "Lines": {
+            "4650": 1,
+            "4651": 1,
+            "4652": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_UserUpdateId_Display_Description()": {
+          "Lines": {
+            "4659": 1,
+            "4660": 1,
+            "4661": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_UserUpdateId_Display_Name()": {
+          "Lines": {
+            "4668": 1,
+            "4669": 1,
+            "4670": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_UserUpdateId_Display_Prompt()": {
+          "Lines": {
+            "4677": 1,
+            "4678": 1,
+            "4679": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_UserUpdateId_Display_ShortName()": {
+          "Lines": {
+            "4686": 1,
+            "4687": 1,
+            "4688": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Value()": {
+          "Lines": {
+            "4695": 1,
+            "4696": 1,
+            "4697": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Value_Display_Description()": {
+          "Lines": {
+            "4704": 1,
+            "4705": 1,
+            "4706": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Value_Display_Name()": {
+          "Lines": {
+            "4713": 1,
+            "4714": 1,
+            "4715": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Value_Display_Prompt()": {
+          "Lines": {
+            "4722": 1,
+            "4723": 1,
+            "4724": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Value_Display_ShortName()": {
+          "Lines": {
+            "4731": 1,
+            "4732": 1,
+            "4733": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Vat()": {
+          "Lines": {
+            "4740": 1,
+            "4741": 1,
+            "4742": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_VatNumber()": {
+          "Lines": {
+            "4749": 1,
+            "4750": 1,
+            "4751": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_VerificationCode()": {
+          "Lines": {
+            "4758": 1,
+            "4759": 1,
+            "4760": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_VerificationEmailSentPleaseCheckYourEmail()": {
+          "Lines": {
+            "4767": 1,
+            "4768": 1,
+            "4769": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_VerifiedBy()": {
+          "Lines": {
+            "4776": 1,
+            "4777": 1,
+            "4778": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Verify()": {
+          "Lines": {
+            "4785": 1,
+            "4786": 1,
+            "4787": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_VerifyState()": {
+          "Lines": {
+            "4794": 1,
+            "4795": 1,
+            "4796": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ViewContract()": {
+          "Lines": {
+            "4803": 1,
+            "4804": 1,
+            "4805": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ViewCounterpart()": {
+          "Lines": {
+            "4812": 1,
+            "4813": 1,
+            "4814": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ViewFile()": {
+          "Lines": {
+            "4821": 1,
+            "4822": 1,
+            "4823": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ViewPaymentTerm()": {
+          "Lines": {
+            "4830": 1,
+            "4831": 1,
+            "4832": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ViewRows()": {
+          "Lines": {
+            "4839": 1,
+            "4840": 1,
+            "4841": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_ViewXml()": {
+          "Lines": {
+            "4848": 1,
+            "4849": 1,
+            "4850": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Warning()": {
+          "Lines": {
+            "4857": 1,
+            "4858": 1,
+            "4859": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_Yes()": {
+          "Lines": {
+            "4866": 1,
+            "4867": 1,
+            "4868": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_YouCan()": {
+          "Lines": {
+            "4875": 1,
+            "4876": 1,
+            "4877": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_YouDoNotHaveAccessToThisResource()": {
+          "Lines": {
+            "4884": 1,
+            "4885": 1,
+            "4886": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_YouHave()": {
+          "Lines": {
+            "4893": 1,
+            "4894": 1,
+            "4895": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_YouHaveGeneratedNewRecoveryCodes()": {
+          "Lines": {
+            "4902": 1,
+            "4903": 1,
+            "4904": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_YouHaveNoRecoveryCodesLeft()": {
+          "Lines": {
+            "4911": 1,
+            "4912": 1,
+            "4913": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_YouHaveOneRecoveryCodeLeft()": {
+          "Lines": {
+            "4920": 1,
+            "4921": 1,
+            "4922": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_YouMust()": {
+          "Lines": {
+            "4929": 1,
+            "4930": 1,
+            "4931": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_YourAuthenticatorAppHasBeenVerified()": {
+          "Lines": {
+            "4938": 1,
+            "4939": 1,
+            "4940": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_YourAuthenticatorAppKeyHasBeenResetYouWillNeedToConfigureYourAuthenticatorAppUsingTheNewKey()": {
+          "Lines": {
+            "4947": 1,
+            "4948": 1,
+            "4949": 1,
+            "4950": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_YourEmailIsUnchanged()": {
+          "Lines": {
+            "4957": 1,
+            "4958": 1,
+            "4959": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_YourLoginIsProtectedWithAnAuthenticatorAppEnterYourAuthenticatorCodeBelow()": {
+          "Lines": {
+            "4966": 1,
+            "4967": 1,
+            "4968": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_YourPasswordHasBeenChanged()": {
+          "Lines": {
+            "4975": 1,
+            "4976": 1,
+            "4977": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_YourPasswordHasBeenSet()": {
+          "Lines": {
+            "4984": 1,
+            "4985": 1,
+            "4986": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_YourProfileHasBeenUpdated()": {
+          "Lines": {
+            "4993": 1,
+            "4994": 1,
+            "4995": 1
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.GenericResource::get_YouShould()": {
+          "Lines": {
+            "5002": 1,
+            "5003": 1,
+            "5004": 1
+          },
+          "Branches": []
+        },
+        "System.Void Localization.Resources.GenericResource::.ctor()": {
+          "Lines": {
+            "32": 2,
+            "33": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\dev\\Localization.Resources\\src\\Localization.Resources\\ValidationResource.Designer.cs": {
+      "Localization.Resources.ValidationResource": {
+        "System.Resources.ResourceManager Localization.Resources.ValidationResource::get_ResourceManager()": {
+          "Lines": {
+            "40": 6,
+            "41": 7,
+            "42": 1,
+            "43": 1,
+            "44": 1,
+            "45": 6,
+            "46": 6
+          },
+          "Branches": [
+            {
+              "Line": 41,
+              "Offset": 11,
+              "EndOffset": 13,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 41,
+              "Offset": 11,
+              "EndOffset": 47,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 5
+            }
+          ]
+        },
+        "System.Globalization.CultureInfo Localization.Resources.ValidationResource::get_Culture()": {
+          "Lines": {
+            "55": 7,
+            "56": 7,
+            "57": 7
+          },
+          "Branches": []
+        },
+        "System.Void Localization.Resources.ValidationResource::set_Culture(System.Globalization.CultureInfo)": {
+          "Lines": {
+            "58": 7,
+            "59": 7,
+            "60": 7
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ValidationResource::get_EmployeeIdRequired()": {
+          "Lines": {
+            "67": 2,
+            "68": 2,
+            "69": 2
+          },
+          "Branches": []
+        },
+        "System.String Localization.Resources.ValidationResource::get_MandatoryReasonRequired()": {
+          "Lines": {
+            "76": 2,
+            "77": 2,
+            "78": 2
+          },
+          "Branches": []
+        },
+        "System.Void Localization.Resources.ValidationResource::.ctor()": {
+          "Lines": {
+            "32": 2,
+            "33": 1
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}

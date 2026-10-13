@@ -1,0 +1,64 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <Title>Localization.Resources.UnitTests</Title>
+        <Product>Localization.Resources.UnitTests</Product>
+        <Description>Localization.Resources.UnitTests</Description>
+        <PackageId>Localization.Resources.UnitTests</PackageId>
+        <RootNamespace>Localization.Resources.UnitTests</RootNamespace>
+        <AssemblyName>Localization.Resources.UnitTests</AssemblyName>
+        <IsPackable>false</IsPackable>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference
+                Include="coverlet.collector"
+                Version="10.1.0">
+            <PrivateAssets>all</PrivateAssets>
+            <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+        </PackageReference>
+        <PackageReference
+                Include="coverlet.msbuild"
+                Version="10.1.0">
+            <PrivateAssets>all</PrivateAssets>
+            <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+        </PackageReference>
+
+        <PackageReference
+                Include="Microsoft.NET.Test.Sdk"
+                Version="18.10.1" />
+        <PackageReference
+                Include="Moq"
+                Version="4.21.0" />
+        <PackageReference
+                Include="xunit"
+                Version="2.9.3" />
+        <PackageReference
+                Include="xunit.runner.visualstudio"
+                Version="4.0.1">
+            <PrivateAssets>all</PrivateAssets>
+            <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+        </PackageReference>
+    </ItemGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\..\src\Localization.Resources\Localization.Resources.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <Using Include="Xunit" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference
+                Update="Microsoft.CodeAnalysis.NetAnalyzers"
+                Version="11.0.100-rc.1.26425.128" />
+        <PackageReference
+                Update="Roslynator.Analyzers"
+                Version="5.0.1" />
+        <PackageReference
+                Update="Roslynator.CodeFixes"
+                Version="5.0.1" />
+    </ItemGroup>
+
+</Project>

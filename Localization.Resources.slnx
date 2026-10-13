@@ -1,0 +1,14 @@
+<Solution>
+    <Folder Name="/Solution Items/">
+        <File Path=".editorconfig" />
+        <File Path="AGENTS.md" />
+        <File Path="Directory.Build.props" />
+        <File Path="README.md" />
+    </Folder>
+    <Folder Name="/src/">
+        <Project Path="src/Localization.Resources/Localization.Resources.csproj" />
+    </Folder>
+    <Folder Name="/tests/">
+        <Project Path="tests/Localization.Resources.UnitTests/Localization.Resources.UnitTests.csproj" />
+    </Folder>
+</Solution>
